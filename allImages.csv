@@ -1,0 +1,394 @@
+filename,source,category,vistype,title,title location,attr: data-ink ratio,attr: # distinct colors,attr: black&white,attr: visual density,attr: human recognizable object,attr: human depiction,mem: at-a-glance HR (%),mem: at-a-glance FAR (%),mem: prolonged HR (%),data redundancy,message redundancy,illegible
+economist_daily_chart_103.png,Economist Daily,N,Bars,"Food* surpluses and deficits",Top-left,2,3,n,1,n,n,41.76,10.89,81.82,0,0,0
+economist_daily_chart_106.png,Economist Daily,N,Bars,"Cost of sending a standard-sized letter domestically",Top-left,1,2,n,1,n,n,39.08,29.47,80.00,0,0,0
+economist_daily_chart_110.png,Economist Daily,N,Maps,"Ecological footprint*",Top-left,1,1,n,1,y,n,77.53,26.53,100.00,0,0,0
+economist_daily_chart_116.png,Economist Daily,N,Area,"Total stock of electric and plug-in hybrid vehicles",Top-left,2,2,n,2,n,n,46.51,10.00,76.47,0,0,0
+economist_daily_chart_124.png,Economist Daily,N,Maps,"Mobile-money users in Africa",Key (bottom-left),1,1,n,1,y,n,73.26,18.81,81.25,0,0,0
+economist_daily_chart_129.png,Economist Daily,N,Lines,"Ireland",Top-left,1,2,n,2,n,n,59.38,7.48,75.00,0,0,0
+economist_daily_chart_153.png,Economist Daily,N,Area,"Global weather-related disasters",Top-left,2,2,n,1,n,n,54.65,9.00,77.78,0,0,0
+economist_daily_chart_165.png,Economist Daily,N,Bars,"Organ donor rates",Top-left,1,1,n,1,n,n,69.05,34.41,94.12,0,0,0
+economist_daily_chart_167.png,Economist Daily,N,Bars,"Language diversity",Top-left,1,1,n,1,n,n,59.77,34.34,75.00,0,0,0
+economist_daily_chart_18.png,Economist Daily,N,Table,"The Economist 'Which MBA?' 2012",Top-left,2,1,y,2,n,n,50.00,15.09,93.75,0,0,0
+economist_daily_chart_187.png,Economist Daily,N,Bars,"The Big Mac Index",Top-left,1,1,n,1,n,n,50.59,16.16,90.00,0,0,0
+economist_daily_chart_202.png,Economist Daily,N,Points,"Christmas gifts",Top-left,1,1,n,1,n,n,62.92,8.00,78.57,0,0,0
+economist_daily_chart_215.png,Economist Daily,N,Maps,"Cluster-munition producers",Top-left,1,1,n,1,y,n,40.00,13.13,69.23,0,0,0
+economist_daily_chart_219.png,Economist Daily,N,Maps,"Two diasporas, top 20 countries",Key (bottom-left),3,2,n,1,y,n,57.47,4.26,100.00,1,0,0
+economist_daily_chart_240.png,Economist Daily,N,Lines,"Land-surface average temperature anomaly",Top-left,1,2,n,1,n,n,36.59,12.12,44.44,0,0,0
+economist_daily_chart_242.png,Economist Daily,N,Bars,"Global malaria deaths and R&D funding",Top-left,3,2,n,2,n,n,44.94,25.77,70.59,0,0,0
+economist_daily_chart_258.png,Economist Daily,N,Points,"US property-crime rates and GDP per person",Top-left,3,1,n,2,n,n,38.89,20.41,100.00,0,0,0
+economist_daily_chart_268.png,Economist Daily,N,Area,"Top three countries by economic dominance",Top-left,3,3,n,1,y,n,70.79,3.09,93.75,1,0,0
+economist_daily_chart_310.png,Economist Daily,N,Table,"Government debt dynamics",Top-left,1,1,n,1,n,n,50.00,12.79,33.33,0,0,0
+economist_daily_chart_317.png,Economist Daily,N,Maps,"Military conscription",Top-left,1,2,n,1,y,n,72.41,17.53,93.33,0,0,0
+economist_daily_chart_324.png,Economist Daily,N,Bars,"Gross exposures to sovereign bonds",Top-left,1,2,n,1,n,n,51.19,26.04,68.42,0,0,0
+economist_daily_chart_35.png,Economist Daily,N,Points,"Paralympic and Olympic competitors",Top-left,3,1,n,1,n,n,64.29,17.35,87.50,0,0,0
+economist_daily_chart_380.png,Economist Daily,N,Lines,"Age of Western leaders",Top-left,1,1,n,1,n,n,50.00,14.71,87.50,0,0,0
+economist_daily_chart_390.png,Economist Daily,N,Lines,"Stockmarket reactions",Top-left,1,2,n,1,n,n,55.70,20.43,75.00,0,0,0
+economist_daily_chart_392.png,Economist Daily,N,Bars,"World's largest earthquakes",Top-left,2,1,n,1,n,n,74.42,39.18,85.71,0,0,0
+economist_daily_chart_4.png,Economist Daily,N,Bars,"US gross public debt as % of GDP",Top-left,2,2,n,1,n,n,41.30,23.53,77.78,0,0,0
+economist_daily_chart_406.png,Economist Daily,N,Maps,"Genetically modified crops",Top-left,2,2,n,3,y,n,46.51,10.89,90.00,0,0,0
+economist_daily_chart_416.png,Economist Daily,N,Bars,"BP and the price of oil",Top-left,1,1,n,2,n,n,63.53,12.63,72.22,0,0,0
+economist_daily_chart_430.png,Economist Daily,N,Lines,"GDP projections at PPP*",Top-left,2,2,n,1,n,n,60.87,20.59,83.33,0,0,0
+economist_daily_chart_439.png,Economist Daily,N,Bars,"Sovereign-debt risk",Top-left,1,1,n,1,n,n,68.97,37.50,75.00,0,0,0
+economist_daily_chart_449.png,Economist Daily,N,Bars,"Most expensive book titles sold at auction",Top-left,1,1,n,2,n,n,55.68,22.77,100.00,0,0,0
+economist_daily_chart_45.png,Economist Daily,N,Points,"Cigarette use",Top-left,2,2,n,2,y,y,60.64,5.66,94.12,0,1,0
+economist_daily_chart_453.png,Economist Daily,N,Lines,"US house prices",Top-left,1,1,n,1,n,n,56.04,27.27,64.71,0,0,0
+economist_daily_chart_454.png,Economist Daily,N,Bars,"Cities",Top-left,3,2,n,1,n,n,67.07,19.61,70.59,0,0,0
+economist_daily_chart_46.png,Economist Daily,N,Table,"Alcohol in Muslim-majority countries",Top-left,2,2,n,2,y,n,72.83,0.97,100.00,1,1,0
+economist_daily_chart_475.png,Economist Daily,N,Maps,"Exports to China",Top-left,2,2,n,2,y,n,64.44,6.00,95.00,0,0,0
+economist_daily_chart_48.png,Economist Daily,N,Maps,"Obesity in America",Top-left,1,2,n,1,y,n,77.89,25.69,94.12,0,0,0
+economist_daily_chart_490.png,Economist Daily,N,Table,"African governance",Top-left,1,1,n,1,n,n,48.89,8.82,92.86,0,0,0
+economist_daily_chart_491.png,Economist Daily,N,Bars,"Effective tax rates",Top-left,1,1,n,1,n,n,75.58,41.24,75.00,0,0,0
+economist_daily_chart_493.png,Economist Daily,N,Maps,"Unemployment rate September 2010, %",Key (top-right),2,3,n,2,y,n,60.23,3.06,80.00,0,0,0
+economist_daily_chart_5.png,Economist Daily,N,Bars,"Cremations as a percentage of all deaths",Top-left,1,1,n,1,n,n,67.50,29.35,75.00,0,0,0
+economist_daily_chart_516.png,Economist Daily,N,Bars,"Brazil's agriculture",Top-left,1,1,n,1,n,n,73.91,22.12,88.89,0,0,0
+economist_daily_chart_520.png,Economist Daily,N,Bars,"Disappearing trick",Top-left,1,1,n,2,n,n,60.47,13.54,57.14,0,0,0
+economist_daily_chart_521.png,Economist Daily,N,Lines,"Space junk",Top-left,1,2,n,1,n,n,70.89,5.38,100.00,0,0,0
+economist_daily_chart_529.png,Economist Daily,N,Bars,"US corporate profits and unemployment",Top-left,2,1,n,2,n,n,46.81,35.29,93.75,0,0,0
+economist_daily_chart_53.png,Economist Daily,N,Points,"Discontinued Olympic events",Top-left,2,1,n,1,n,n,45.98,7.07,88.24,0,1,0
+economist_daily_chart_54.png,Economist Daily,N,Points,"Youngest and oldest participants",Top-left,3,2,n,2,y,y,30.23,5.77,88.89,0,1,0
+economist_daily_chart_66.png,Economist Daily,N,Lines,"GDP forecasts for 2012",Top-left,2,2,n,2,n,n,42.50,25.00,77.27,0,0,0
+economist_daily_chart_69.png,Economist Daily,N,Lines,"World GDP",Top-left,1,2,n,1,n,n,56.99,16.00,100.00,0,0,0
+economist_daily_chart_75.png,Economist Daily,N,Bars,"Number of apps on Google Play",Top-left,2,1,n,1,n,n,59.49,26.32,88.24,0,0,0
+economist_daily_chart_85.png,Economist Daily,N,Bars,"Top 20 theme parks worldwide",Top-left,1,1,n,1,n,n,65.12,18.48,100.00,0,0,0
+economist_daily_chart_89.png,Economist Daily,N,Maps,"Undiscovered deposits, probability of oil and/or gas field*, 2008 estimates, %",Key (top-left),3,3,n,3,y,n,54.32,8.79,100.00,0,0,0
+economist_daily_chart_99.png,Economist Daily,N,Maps,"Probability of dying from a non-communicable disease",Top-left,2,1,n,1,y,n,67.78,36.00,94.12,0,0,0
+np_21.png,National Post,N,Area,"BUYER BEWARE",Top-center,3,2,n,3,y,n,73.81,2.04,100.00,0,1,1
+np_48.png,National Post,N,Trees and Networks,"",none,1,1,n,1,n,n,65.96,3.74,75.00,1,1,0
+np_7.png,National Post,N,Bars,"INVADERS FROM EARTH",Top,3,2,n,2,y,n,72.09,6.19,100.00,0,1,1
+treasuryA10.png,US Department of the Treasury,G,Lines,"The President's Budget cuts the deficit and stabilizes the debt.",Top (2nd row),1,1,n,2,n,n,45.68,12.37,80.00,0,1,0
+treasuryB04.png,US Department of the Treasury,G,Lines,"The crisis response helped unclog the credit pipes of the financial system",Top-left,2,2,n,3,n,n,21.98,8.16,57.89,1,1,0
+treasuryB10.png,US Department of the Treasury,G,Bars,"In fact, taxpayers may realize a gain",Top-left,3,2,n,2,n,n,40.22,3.96,40.00,1,1,0
+treasuryB15.png,US Department of the Treasury,G,Points,"The U.S. banking system is proportionally smaller than that of other advanced economies",Top-center,1,1,n,1,n,n,24.72,5.05,52.94,0,1,0
+treasuryD04_3.png,US Department of the Treasury,G,Table,"Modification Characteristics",Top-center,1,1,y,1,n,n,33.68,4.67,40.00,0,0,0
+treasuryD05_1.png,US Department of the Treasury,G,Bars,"Waterfall of Estimated Eligible Homeowners For the First Lien Modification Program",Top-center,1,2,n,2,n,n,21.74,1.90,27.78,1,1,0
+treasuryD08.png,US Department of the Treasury,G,Table,"HAMP Modification Activity by Servicer",Top-left,2,1,n,2,n,n,25.64,16.84,40.00,0,0,0
+treasuryG01_2.png,US Department of the Treasury,G,Table,"Marketable Treasury Coupon Flows (including SOMA)",Top-center,1,1,n,1,n,n,34.67,5.81,57.14,0,1,0
+treasuryG02_2.png,US Department of the Treasury,G,Bars,"Treasury Quarterly Net Marketable Borrowing 'Net Cash'",Top-center/right,3,3,n,2,n,n,38.20,6.67,37.50,1,1,0
+treasuryG05_1.png,US Department of the Treasury,G,Lines,"Debt Maturity Measure",Top-center/right,1,2,n,2,n,n,23.16,19.19,31.25,0,1,0
+treasuryG06_2.png,US Department of the Treasury,G,Bars,"Coupons Maturing* February 15, 2010-Novemter 15, 2039",Top-center/right,3,3,n,2,n,n,33.73,6.12,75.00,0,1,0
+treasuryG07_2.png,US Department of the Treasury,G,Lines,"Comparing Deficit Estimates for FY 2010 since February 2009",Top-center/right,1,2,n,1,n,n,40.96,13.13,78.57,0,1,0
+treasuryI01_2.png,US Department of the Treasury,G,Lines,"Job Market Conditions Improving for the Nation, Stabilizing in Reno",Top-center,2,1,n,1,n,n,38.64,21.78,73.68,0,0,0
+treasuryI02_1.png,US Department of the Treasury,G,Bars,"New and Existing Home Sales: Reno Compared to the Nation",Top-center,2,2,n,2,n,n,35.90,10.23,57.89,0,0,0
+treasuryK01.png,US Department of the Treasury,G,Diagrams,"The Department of the Treasury Organizational Chart",Top-left,1,1,y,1,n,n,35.87,7.22,71.43,0,0,0
+treasuryK03_2.png,US Department of the Treasury,G,Bars,"Total Treasury Liabilities (In Billions)",Top-center,2,1,n,2,n,n,69.05,35.11,64.71,1,0,0
+treasuryK03_3.png,US Department of the Treasury,G,Bars,"Total Net Position (In Billions)",Top-center,2,1,n,2,n,n,69.15,38.61,61.11,1,0,0
+treasuryK05_1.png,US Department of the Treasury,G,Circles,"FY 2012 Total Assets (Composition)",Top-center,3,2,n,1,n,n,52.27,9.09,58.82,1,0,0
+treasuryK06.png,US Department of the Treasury,G,Bars,"Net Cost (Revenue) of Operations (by Strategic Program)",Top-center,3,2,n,2,n,n,22.47,3.96,68.75,1,0,0
+treasuryL03_2.png,US Department of the Treasury,G,Circles,"Manufacturing",Top-center,1,3,n,2,n,n,60.22,20.79,81.25,1,0,0
+treasuryL04_1.png,US Department of the Treasury,G,Table,"Table I-4: Covered Transactions from the Computer and Electronic Products Subsector",Bottom-center,1,1,n,1,n,n,53.33,19.61,86.67,0,0,0
+treasuryL10_1.png,US Department of the Treasury,G,Table,"Table I-10: Covered Transactions from the Utilities Subsector",Bottom-center,1,1,n,1,n,n,49.40,34.69,35.29,0,0,0
+treasuryL11_2.png,US Department of the Treasury,G,Circles,"(title1) Total Wholesale, Retail, and Transportation 2009-2011 ; (title2) Covered Transactions from the Wholesale, Retail, and Transportation Sector)",(title1) top-center; (title2) bottom-center,1,3,n,1,n,n,56.18,24.49,70.59,1,0,0
+treasuryL13.png,US Department of the Treasury,G,Table,"(title 1) Covered Transactions by Acquirer Home Country/Economy and Target Sector, 2009-2011 ; (title 2) Table I-13: Covered Transactions by Country or Economy and Target Sector: 2009-2011",(title1) top-center; (title2) bottom-center,1,1,n,1,n,n,56.82,10.10,50.00,0,0,0
+treasuryL16.png,US Department of the Treasury,G,Bars,"Figure II-3: 2011 Critical Technology Transactions by Region Within Each Sector",Bottom-center,1,3,n,2,n,n,20.69,3.09,57.14,1,0,0
+v482_n7386_5_f5.png,Nature,S,Diagrams,"",none,1,2,n,2,n,n,50.57,16.16,90.48,0,0,0
+v482_n7386_7_f2.png,Nature,S,Diagrams,"",none,2,2,n,2,n,n,41.18,2.11,86.67,0,0,0
+v483_n7387_20_f2.png,Nature,S,Diagrams,"",none,1,3,n,1,n,n,76.74,34.65,100.00,0,0,0
+v483_n7387_5_f1.png,Nature,S,Lines,"",none,2,2,n,3,n,n,48.78,26.32,88.24,0,0,0
+v483_n7387_7_f4.png,Nature,S,Area,"",none,3,3,n,3,n,n,44.94,3.92,81.25,0,0,0
+v483_n7388_11_f2.png,Nature,S,Bars,"",none,3,1,y,3,n,n,41.18,4.26,68.42,0,0,0
+v483_n7388_14_f3.png,Nature,S,Points,"",none,2,2,n,1,n,n,71.11,8.65,100.00,0,0,0
+v483_n7389_24_f3.png,Nature,S,Diagrams,"",none,2,2,n,1,n,n,46.59,12.00,90.91,0,0,0
+v483_n7390_14_f2.png,Nature,S,Points,"",none,1,1,y,2,n,n,69.05,25.00,90.00,0,0,0
+v483_n7390_21_f4.png,Nature,S,Diagrams,"",none,1,2,n,1,n,n,64.52,5.05,87.50,0,0,0
+v483_n7390_8_f1.png,Nature,S,Lines,"",none,1,2,n,2,n,n,56.32,5.10,68.42,0,1,0
+v483_n7391_1_f1.png,Nature,S,Maps,"",none,3,3,n,1,y,n,58.33,4.17,86.67,0,0,0
+v483_n7391_3_f5.png,Nature,S,Diagrams,"",none,2,1,y,2,y,n,53.85,3.06,94.12,0,0,0
+v483_n7391_8_f1.png,Nature,S,Lines,"",none,1,1,y,1,n,n,59.04,10.87,88.89,0,0,0
+v484_n7392_14_f3.png,Nature,S,Trees and Networks,"",none,1,1,y,1,y,n,80.95,1.04,100.00,0,1,0
+v484_n7393_20_f1.png,Nature,S,Diagrams,"",none,1,3,n,3,n,n,75.58,26.37,93.75,0,0,0
+v484_n7393_6_f4.png,Nature,S,Lines,"",none,1,1,y,2,n,n,53.26,18.45,78.95,0,0,0
+v484_n7394_10_f4.png,Nature,S,Lines,"",none,2,3,n,3,n,n,44.83,3.88,61.11,0,0,0
+v484_n7394_5_f2.png,Nature,S,Lines,"",none,1,1,y,1,n,n,32.94,25.26,73.68,0,0,0
+v484_n7394_5_f5.png,Nature,S,Area,"",none,1,1,y,1,n,n,29.35,2.97,55.56,0,0,0
+v484_n7394_8_f2.png,Nature,S,Points,"",none,2,1,y,1,n,n,48.42,6.93,94.44,0,0,0
+v484_n7394_8_f4.png,Nature,S,Points,"",none,1,1,y,1,n,n,60.87,27.45,63.16,0,0,0
+v484_n7395_11_f1.png,Nature,S,Maps,"",none,1,2,n,2,y,n,65.82,12.09,82.35,0,0,0
+v485_n7397_14_f3.png,Nature,S,Table,"",none,1,1,y,1,n,n,42.05,34.00,72.22,0,0,0
+v485_n7397_15_f1.png,Nature,S,Trees and Networks,"",none,2,3,n,1,n,n,45.35,8.25,100.00,0,0,0
+v485_n7397_6_f4.png,Nature,S,Lines,"",none,2,3,n,2,n,n,62.22,26.53,60.00,0,0,0
+v485_n7399_13_f4.png,Nature,S,Points,"",none,3,3,n,2,n,n,38.71,8.16,86.67,0,0,0
+v485_n7399_9_f2.png,Nature,S,Points,"",none,1,2,n,2,n,n,43.68,6.32,70.59,0,0,0
+v485_n7400_14_f1.png,Nature,S,Maps,"",none,3,3,n,3,y,n,45.24,5.32,81.25,0,0,0
+v485_n7400_14_f2.png,Nature,S,Points,"",none,3,2,n,3,n,n,24.68,5.26,64.29,0,0,0
+v485_n7400_15_f2.png,Nature,S,Bars,"",none,2,3,n,2,y,n,76.14,15.79,93.75,0,1,0
+v486_n7401_8_f1.png,Nature,S,Lines,"",none,3,3,n,3,n,n,50.55,12.26,76.47,0,0,0
+v486_n7401_8_f2.png,Nature,S,Maps,"",none,3,3,n,1,y,n,58.62,5.15,77.78,0,0,0
+v486_n7403_19_f2.png,Nature,S,Grid / Matrix,"",none,2,2,n,1,n,n,60.67,7.92,91.67,0,0,0
+v486_n7403_1_f8.png,Nature,S,Distribution,"",none,2,2,n,1,n,n,36.59,1.03,78.95,0,0,0
+v486_n7404_1_f2.png,Nature,S,Diagrams,"",none,1,2,n,1,y,n,63.41,0.00,100.00,0,1,0
+v486_n7404_20_f6.png,Nature,S,Points,"",none,2,1,n,2,n,n,34.38,8.65,76.47,0,0,0
+v486_n7404_6_f1.png,Nature,S,Grid / Matrix,"",none,1,2,n,1,n,n,82.80,12.12,93.75,0,0,0
+v486_n7404_9_f2.png,Nature,S,Lines,"",none,3,3,n,2,n,n,36.56,10.68,47.06,0,0,0
+v487_n7405_21_f2.png,Nature,S,Lines,"",none,2,2,n,2,n,n,54.22,13.40,93.33,0,0,0
+v487_n7405_22_f1.png,Nature,S,Diagrams,"",none,2,2,n,2,n,n,53.57,9.57,70.59,0,0,0
+v487_n7405_6_f4.png,Nature,S,Lines,"",none,1,2,n,2,n,n,42.17,19.59,75.00,0,0,0
+v487_n7405_7_f1.png,Nature,S,Lines,"",none,3,3,n,2,n,n,39.36,7.92,60.00,0,0,0
+v487_n7406_13_f2.png,Nature,S,Points,"",none,2,3,n,3,y,n,47.87,5.56,88.89,0,1,0
+v487_n7406_13_f5.png,Nature,S,Diagrams,"",none,2,3,n,2,y,n,55.68,1.89,93.75,0,0,0
+v487_n7407_15_f3.png,Nature,S,Table,"",none,2,1,n,2,n,n,52.44,3.26,76.47,0,0,0
+v487_n7407_22_f2.png,Nature,S,Diagrams,"",none,1,2,n,1,n,n,74.73,18.37,100.00,0,0,0
+v487_n7407_22_f4.png,Nature,S,Diagrams,"",none,1,2,n,1,n,n,66.67,9.71,93.33,0,0,0
+v487_n7408_15_f3.png,Nature,S,Bars,"",none,3,1,y,1,n,n,58.51,15.00,57.14,0,0,0
+v488_n7410_13_f4.png,Nature,S,Diagrams,"",none,1,1,n,1,y,n,91.86,15.46,100.00,0,0,0
+v488_n7410_15_f3.png,Nature,S,Trees and Networks,"",none,2,3,n,2,n,n,33.33,5.10,66.67,0,0,0
+v488_n7411_6_f4.png,Nature,S,Lines,"",none,2,2,n,2,n,n,38.82,18.75,80.00,0,0,0
+v488_n7411_9_f1.png,Nature,S,Maps,"",none,3,3,n,1,y,n,71.91,0.98,93.75,0,0,0
+v488_n7412_1_f3.png,Nature,S,Points,"",none,1,1,y,1,n,n,39.53,16.16,71.43,0,0,0
+v488_n7412_1_f4.png,Nature,S,Lines,"",none,1,1,y,1,n,n,36.26,6.00,80.00,0,0,0
+v488_n7412_4_f1.png,Nature,S,Diagrams,"",none,2,2,n,2,n,n,40.23,3.00,88.24,0,0,0
+v488_n7412_7_f1.png,Nature,S,Diagrams,"",none,2,3,n,1,n,n,57.95,16.16,82.35,0,0,0
+v488_n7412_8_f1.png,Nature,S,Maps,"",none,2,2,n,3,y,n,33.72,0.00,52.94,0,0,0
+v488_n7412_9_f1.png,Nature,S,Maps,"Elevation difference trend (m yr-1)",Key (top-right),3,2,n,3,y,n,42.17,7.14,73.33,0,0,0
+v488_n7413_3_f2.png,Nature,S,Lines,"",none,3,3,n,3,n,n,58.62,13.86,93.33,0,0,0
+v489_n7414_20_f1.png,Nature,S,Diagrams,"",none,2,2,n,2,y,n,47.19,1.01,86.67,0,0,0
+v489_n7414_25_f2.png,Nature,S,Lines,"",none,2,2,n,1,n,n,36.56,12.87,68.75,0,0,0
+v489_n7415_12_f5.png,Nature,S,Bars,"",none,2,2,n,2,n,n,40.48,2.13,81.25,0,0,0
+v489_n7415_7_f2.png,Nature,S,Diagrams,"",none,1,1,n,2,n,n,60.00,17.53,88.24,0,0,0
+v489_n7416_15_f2.png,Nature,S,Points,"",none,1,1,y,1,n,n,70.93,12.24,100.00,0,0,0
+v489_n7416_19_f3.png,Nature,S,Table,"",none,1,1,y,2,n,n,41.76,22.92,81.25,0,0,1
+v489_n7416_3_f4.png,Nature,S,Grid / Matrix,"Number of differentially expressed genes between pairs of structures",Top(low)-right,3,3,n,2,n,n,64.04,5.10,84.21,0,0,0
+v489_n7416_4_f6.png,Nature,S,Diagrams,"",none,1,2,n,1,n,n,77.65,1.00,100.00,0,0,0
+v490_n7418_12_f1.png,Nature,S,Points,"",none,3,3,n,2,n,n,54.65,18.18,63.16,0,0,0
+v490_n7418_14_f2.png,Nature,S,Trees and Networks,"",none,1,1,y,1,n,n,54.65,2.94,85.71,0,0,0
+v490_n7418_1_f2.png,Nature,S,Bars,"",none,2,3,n,2,y,y,26.44,4.08,94.74,0,1,0
+v490_n7418_6_f3.png,Nature,S,Points,"",none,1,2,n,2,n,n,56.63,24.74,94.44,0,0,0
+v490_n7419_11_f1.png,Nature,S,Maps,"",none,3,3,n,3,y,n,56.47,3.19,80.00,0,0,0
+v490_n7419_20_f3.png,Nature,S,Table,"",none,1,1,y,1,n,n,46.74,17.43,89.47,0,0,1
+v490_n7419_2_f1.png,Nature,S,Diagrams,"",none,2,1,n,1,n,n,62.92,19.80,87.50,0,0,0
+v490_n7419_2_f2.png,Nature,S,Diagrams,"",none,2,2,n,1,n,n,45.12,9.28,70.59,0,0,0
+v490_n7419_7_f4.png,Nature,S,Diagrams,"",none,3,3,n,1,n,n,75.61,3.16,88.24,0,0,0
+v490_n7420_13_f4.png,Nature,S,Lines,"",none,2,2,n,2,n,n,49.41,19.00,50.00,0,0,0
+v490_n7420_23_f5.png,Nature,S,Diagrams,"",none,2,3,n,1,n,n,66.67,1.03,93.75,0,0,0
+vis109.png,Visual.ly,I,Diagrams,"REDESIGN YOUR PLACE",Top-left,2,1,n,2,n,n,61.36,2.00,81.25,0,0,0
+vis230.png,Visual.ly,I,Bars,"",none,3,3,n,2,y,n,51.76,7.07,87.50,0,1,0
+vis250.png,Visual.ly,I,Bars,"66% of Americans feel Romney Performed Better Than Obama in Debates",Top-left,1,2,n,2,y,y,85.71,10.20,94.44,1,1,0
+vis278.png,Visual.ly,I,Maps,"A TAXONOMY OF TRANSITIONS",Top-right,1,2,n,1,y,n,54.02,3.19,94.74,1,0,0
+vis286.png,Visual.ly,I,Maps,"Jul 2007",Bottom-center(right),3,1,y,1,y,n,65.12,2.15,100.00,0,0,0
+vis288.png,Visual.ly,I,Diagrams,"A HOUSE DIVIDED can it stand?",Top-right,3,3,n,3,y,y,66.28,7.84,76.47,0,0,0
+vis328.png,Visual.ly,I,Diagrams,"FROM Riches to RAGS 9 MUSICIANS WHO LOST IT ALL",Top-left,3,3,n,3,y,y,67.78,6.80,93.33,0,1,0
+vis386.png,Visual.ly,I,Diagrams,"C2+m/Tributo",Top-left,2,3,n,3,y,y,76.67,6.12,81.25,1,1,1
+vis399.png,Visual.ly,I,Trees and Networks,"10:37:16",Bottom(higher)-left,1,3,n,1,n,n,76.04,8.65,100.00,0,0,1
+vis409.png,Visual.ly,I,Circles,"THE 400 RICHEST AMERICANS",Top,3,3,n,3,y,n,56.25,7.37,93.33,1,1,0
+vis416.png,Visual.ly,I,Table,"HOW DID THE REPLACEMENT REFS AFFECT THE FOOTBALL SEASON?",Top,3,2,n,3,y,y,79.07,0.99,94.44,0,1,0
+vis417.png,Visual.ly,I,Diagrams,"LESS IS MORE",Top-(off)right,2,3,n,2,y,n,57.32,5.43,100.00,0,1,0
+vis428.png,Visual.ly,I,Table,"IF YOU COULD BUY THE WHITE HOUSEÉ",Top (lower),2,2,n,2,y,n,53.66,6.93,95.00,0,1,0
+vis499.png,Visual.ly,I,Table,"AN AVERAGE DAY IN THE LIFE OF NURSING",Top-left,3,3,n,3,y,y,70.73,7.45,100.00,0,0,0
+vis512.png,Visual.ly,I,Table,"KEEPING FIT",Top-center,2,2,n,3,y,y,74.19,4.04,100.00,0,1,0
+vis564.png,Visual.ly,I,Area,"A LEADERSHIP DISCONNECT EXISTS BETWEEN WHAT WORKERS PREFER AND WHAT THEY GET",Top-left,2,2,n,2,y,y,56.47,13.13,94.12,1,1,0
+vis586.png,Visual.ly,I,Lines,"50 Years of Growth Wiped Out in a Decade",Top-left,2,2,n,2,y,n,47.31,1.98,95.00,0,1,0
+vis618.png,Visual.ly,I,Maps,"Non-Payers by State",Top-center,1,2,n,1,y,n,63.95,9.80,89.47,1,0,0
+vis625.png,Visual.ly,I,Circles,"Who are the 47%?",Top,3,1,n,1,y,y,85.19,15.62,93.33,1,1,0
+vis630.png,Visual.ly,I,Area,"",none,3,2,n,2,y,y,48.91,2.00,80.00,0,0,0
+vis652.png,Visual.ly,I,Bars,"Big Pharma Charges Unaffordable Prices for Medicines in India",Top-left,3,2,n,2,y,y,57.61,0.00,91.67,1,1,0
+vis67.png,Visual.ly,I,Trees and Networks,"",none,3,2,n,2,y,n,77.01,2.11,94.74,0,1,0
+vis673.png,Visual.ly,I,Trees and Networks,"THE CROSSOVER UNIVERSE",Top-center,1,3,n,2,n,n,61.36,16.33,88.89,0,0,1
+vis678.png,Visual.ly,I,Bars,"THE HOLY WAR",Top-left,3,2,n,3,y,y,61.36,0.00,94.12,1,1,0
+vis684.png,Visual.ly,I,Area,"",none,2,1,y,1,n,n,77.11,2.13,87.50,1,0,1
+vis697.png,Visual.ly,I,Area,"MOTORCYCLE ACCIDENTS",Top-(off)left,3,1,n,2,y,y,63.83,4.59,100.00,0,1,0
+vis708.png,Visual.ly,I,Table,"iPhone 5: From Rumors to Reality",Center,3,1,y,3,y,n,73.26,7.07,93.33,0,1,0
+vis729.png,Visual.ly,I,Area,"UK RENEWABLE ENERGY 2012",Top-left,3,1,n,2,y,n,61.80,1.94,93.75,1,0,0
+vis734.png,Visual.ly,I,Grid / Matrix,"THE DNA OF PROPORTIONAL OLYMPIC GLORY",Top,3,2,n,1,n,n,73.49,9.28,88.24,0,0,1
+vis768.png,Visual.ly,I,Points,"2012 ENTHUSIASM FAVORS REPUBLICANS",Top-center,2,2,n,2,n,n,34.48,0.00,87.50,0,1,0
+vis826.png,Visual.ly,I,Diagrams,"The History of Radio",Top-center,2,1,n,2,y,y,76.14,13.27,92.86,0,1,1
+vis831.png,Visual.ly,I,Area,"*MORE THAN COMMON",Top-right,3,1,n,2,y,n,70.97,0.00,94.12,1,0,0
+vis850.png,Visual.ly,I,Table,"Computers and phones are making their way into patient education",Top,2,1,n,1,y,n,62.35,2.20,100.00,0,1,0
+vis853.png,Visual.ly,I,Maps,"World Population Growth 1950-2050",Top,3,2,n,2,y,n,66.67,10.31,75.00,0,1,1
+vis859.png,Visual.ly,I,Diagrams,"6 Types of Frustrated Jobseekers",(off)Center-(off)left,2,1,n,2,y,y,70.33,7.92,94.74,0,0,0
+vis87.png,Visual.ly,I,Maps,"Education Attainment in Brooklyn",Top-left,1,2,n,1,y,n,38.20,4.12,78.95,0,0,0
+vis881.png,Visual.ly,I,Diagrams,"JOURNEY TO THE UNKNOWN",Top-left,2,3,n,2,y,n,62.07,5.00,100.00,0,1,1
+visMost108.png,Visual.ly,I,Bars,"Did You Know Some Countries Require Vacation?",Top-(off)left,3,3,n,2,y,n,65.43,3.23,91.67,1,1,0
+visMost132.png,Visual.ly,I,Points,"A Core Set of Global Environmental Indicators",Top-left,3,3,n,3,y,n,59.34,18.10,82.35,0,0,0
+visMost143.png,Visual.ly,I,Bars,"Why go to college? Can't I get a good job now?",Top-left,3,2,n,1,y,y,43.04,8.51,88.24,1,1,0
+visMost147.png,Visual.ly,I,Maps,"",none,3,2,n,2,y,n,77.01,13.00,100.00,1,0,0
+visMost187.png,Visual.ly,I,Points,"Disease Case Fatality Rates",Top-left,1,3,n,1,n,n,64.13,9.80,100.00,1,0,0
+visMost190.png,Visual.ly,I,Points,"TEAMS THAT STAY TOGETHER, WIN TOGETHER",Top-left,3,3,n,3,y,y,47.13,3.85,87.50,1,1,0
+visMost215.png,Visual.ly,I,Diagrams,"THE CREATIVE PROCESS",Top-left,3,3,n,3,y,y,80.68,3.96,100.00,0,0,0
+visMost217.png,Visual.ly,I,Table,"He Tweeted, She Tweeted",Top-left,3,2,n,1,y,n,76.47,2.11,100.00,1,0,0
+visMost227.png,Visual.ly,I,Table,"10 Reasons to visit Tokyo Japan",Top,2,3,n,3,y,y,78.31,0.00,100.00,0,1,0
+visMost232.png,Visual.ly,I,Table,"It's A Wonderful (Student) Life",Top-center,2,3,n,2,y,y,75.86,15.53,100.00,0,1,0
+visMost240.png,Visual.ly,I,Trees and Networks,"Envisioning the near future of technology",Top-left,2,3,n,2,n,n,54.65,10.64,86.67,0,0,0
+visMost244.png,Visual.ly,I,Diagrams,"Organizational Chart of the House Democrats' Health Plan",Top-center,3,3,n,3,y,y,56.98,4.21,88.89,0,0,0
+visMost248.png,Visual.ly,I,Table,"Breaking Down Google's 2011 Revenues",Top,2,3,n,3,y,n,51.04,11.88,75.00,0,1,1
+visMost255.png,Visual.ly,I,Diagrams,"THE INSANELY GREAT HISTORY OF APPLE",Top,2,2,n,1,y,n,55.21,6.86,100.00,0,1,0
+visMost261.png,Visual.ly,I,Table,"THE CMO'S GUIDE TO: THE SOCIAL LANDSCAPE",Top-center,2,2,n,1,y,n,45.12,3.30,100.00,0,1,0
+visMost267.png,Visual.ly,I,Diagrams,"Q: HOW DO I WIN ROCK, PAPER, SCISSORS EVERY TIME?",Top-left,2,2,n,2,y,n,62.77,18.27,100.00,0,1,0
+visMost271.png,Visual.ly,I,Maps,"The World's Top Selling Cars",Left (vertical),3,3,n,3,y,n,46.67,5.83,88.24,1,1,0
+visMost274.png,Visual.ly,I,Bars,"green HAT Creative thinking",Top-right,3,3,n,3,y,n,64.44,5.15,93.33,0,1,0
+visMost282.png,Visual.ly,I,Circles,"Who is Occupy Wall St?",Top-(off)left,3,3,n,2,n,n,80.00,8.24,100.00,1,0,0
+visMost357.png,Visual.ly,I,Circles,"WHAT DOES WALK HAVE LEFT TO BUILD AN EMPIRE?",Top-center,3,3,n,3,y,y,49.45,5.15,76.47,1,1,0
+visMost362.png,Visual.ly,I,Diagrams,"SHOULD YOU USE TWITTER?",Top,2,2,n,1,n,n,80.23,19.59,100.00,0,1,0
+visMost374.png,Visual.ly,I,Maps,"WHERE THE MINERALS ARE",Top-left,3,3,n,3,y,n,51.76,8.33,94.12,1,0,0
+visMost376.png,Visual.ly,I,Circles,"STAR WARS REVENUE THROUGHOUT OUR GALAXY",Upper-bottom-left,3,3,n,3,y,n,65.91,11.00,94.12,1,1,0
+visMost378.png,Visual.ly,I,Table,"How Many Calories Do Olympic Athletes Burn In An Event",Off-top-center,2,3,n,2,y,y,65.26,5.56,94.74,1,1,0
+visMost387.png,Visual.ly,I,Table,"Evolution of the Beer Geek",Top,2,3,n,1,y,y,78.82,10.53,100.00,0,1,1
+visMost420.png,Visual.ly,I,Circles,"How People Tweet",Top-left,3,3,n,2,y,n,70.13,12.22,88.89,1,1,0
+visMost451.png,Visual.ly,I,Table,"The iPhone evolution",Top-left,3,3,n,2,y,n,83.33,16.48,100.00,0,1,0
+visMost456.png,Visual.ly,I,Diagrams,"MEMORABLE LINUX MILESTONES",Top-center,3,2,n,2,y,y,61.90,9.78,92.86,0,1,0
+visMost468.png,Visual.ly,I,Grid / Matrix,"LAST DAY TO SHIP TO ARRIVE BY CHRISTMAS",Top-center,2,3,n,3,n,n,53.01,3.12,100.00,0,1,0
+visMost496.png,Visual.ly,I,Maps,"WORK HOURS AND VACATION TIME AROUND THE WORLD",Top,3,3,n,3,y,n,38.64,10.89,93.75,1,1,1
+visMost505.png,Visual.ly,I,Points,"Now Wash Your Hands",Top-left,1,3,n,1,n,n,60.92,8.16,78.57,1,0,0
+visMost52.png,Visual.ly,I,Diagrams,"PULP FICTION In CHRONOLOGICAL ORDER",Top-center,3,3,n,3,y,y,57.61,12.26,100.00,0,0,1
+visMost523.png,Visual.ly,I,Maps,"EARTHQUAKES since 1898, by magnitude",Top-left,1,1,n,2,y,n,87.21,7.37,100.00,0,0,0
+visMost526.png,Visual.ly,I,Table,"BIKE-OPOLIS",Top-left,3,3,n,3,y,y,70.45,2.06,94.74,1,0,0
+visMost537.png,Visual.ly,I,Trees and Networks,"spoiler alert MAD MEN season 1-4 explained",Top-left,2,3,n,3,y,y,68.89,11.11,100.00,0,0,0
+visMost54.png,Visual.ly,I,Bars,"MISSION(S) TO MARS",Top-left,3,2,n,3,y,n,72.94,3.96,100.00,0,1,0
+visMost545.png,Visual.ly,I,Table,"The Savvy Traveller",Top-left,2,1,n,2,y,n,73.63,7.69,100.00,0,1,0
+visMost55.png,Visual.ly,I,Bars,"TOP 10 MOST READ BOOKS IN THE WORLD",Top-right,3,3,n,2,y,n,65.06,1.05,100.00,1,1,0
+visMost575.png,Visual.ly,I,Points,"iPad Price Guide",Top-left,3,2,n,2,n,n,60.23,4.12,86.67,1,0,0
+visMost601.png,Visual.ly,I,Lines,"Simple Shapes of Stories",Top-center,2,2,n,2,n,n,60.67,6.00,88.24,0,0,0
+visMost623.png,Visual.ly,I,Table,"A Date With a Browser",Top-center,3,3,n,2,y,y,77.17,6.80,100.00,0,1,0
+visMost635.png,Visual.ly,I,Maps,"ADOPTION BY STATE (BY PERCENTAGE OF iPADS SOLD)",Top-left,2,1,n,1,y,n,66.29,5.94,95.00,0,0,0
+visMost645.png,Visual.ly,I,Table,"Digital Design in 2011 - [INFOGRAPHIC]",Top-left,2,1,n,1,y,y,43.96,7.29,58.82,0,1,0
+visMost657.png,Visual.ly,I,Table,"How Does Your Income Stack Up To U.S. Government Salaries?",Top,3,3,n,3,n,n,61.63,6.32,94.44,1,1,0
+visMost673.png,Visual.ly,I,Diagrams,"ONE OF OUR DRONES IS MISSING",Top-center,1,1,n,2,y,n,73.17,1.05,94.12,0,1,0
+visMost705.png,Visual.ly,I,Table,"#KnowYourKnives",Top-left,2,3,n,1,y,n,71.11,3.03,100.00,0,1,1
+visMost735.png,Visual.ly,I,Table,"NUMBER OF MEN IN THE UNITED STATES WHO WILL DIE IN 2008 AS A RESULT OFÉ",Top-center (curved),3,2,n,2,y,n,56.32,4.90,80.00,0,1,0
+visMost745.png,Visual.ly,I,Bars,"SE7EN SUMMITS",Top-center,3,2,n,2,y,n,77.78,0.96,100.00,1,1,0
+visMost755.png,Visual.ly,I,Table,"1,000,000 HOURS WORKED",Lower-top,2,2,n,3,y,y,38.82,2.22,63.16,0,1,0
+visMost758.png,Visual.ly,I,Table,"The QR Invasion",Top,2,1,n,3,y,n,71.43,8.08,94.74,0,1,0
+visMost77.png,Visual.ly,I,Trees and Networks,"HOW TO FOCUS IN THE AGE OF DISTRACTION",Center,3,3,n,3,y,y,74.44,11.11,94.12,0,1,0
+visMost82.png,Visual.ly,I,Diagrams,"The apple Tree",Bottom-center,2,3,n,1,y,n,68.18,1.92,100.00,0,0,0
+visMost83.png,Visual.ly,I,Grid / Matrix,"Which Birth Dates Are Most Common?",Top,1,2,n,1,n,n,70.00,0.94,100.00,0,0,0
+visMost92.png,Visual.ly,I,Lines,"STEVEN SPIELBERG Presents BACK TO THE FUTURE A ROBERT ZEMECKIS film TIMELINE",Top-left,2,2,n,1,y,n,67.03,7.00,89.47,0,1,0
+visMost93.png,Visual.ly,I,Diagrams,"THE CONVERSATION PRISM",Top-left,3,3,n,3,n,n,77.27,16.67,85.00,0,0,1
+whoB03_1.png,World Health Organization,G,Bars,"Figure 2 Distribution of women by major age group and region, 2007",Top-center,2,1,n,1,n,n,50.57,14.29,71.43,0,0,0
+whoB05_1.png,World Health Organization,G,Area,"Figure 4 The health transition among Mexican women: death rates by overall cause of death (age-standardized per 1000 women), 1955-2005",Top,2,1,n,1,n,n,48.89,8.00,78.57,0,0,0
+whoB13_2.png,World Health Organization,G,Circles,"Figure 2 Distribution of major causes of death in girls under five years of age, including disease-specific contribution of undernutrition, 2004",Top,3,3,n,3,n,n,30.38,11.58,66.67,1,0,0
+whoB15_1.png,World Health Organization,G,Bars,"Figure 1 Mortality and disease burden (DALYs) in female adolescents aged 10-19 years by region and broad causes, 2004",Top-center,2,3,n,2,n,n,57.95,31.96,85.71,0,0,0
+whoB19_1.png,World Health Organization,G,Points,"Figure 4 Students aged 13-15 not meeting recommended levels of physical activity, selected  countries, 2003-2008",Top-center,1,3,n,1,n,n,46.59,11.00,70.59,0,1,0
+whoB20_1.png,World Health Organization,G,Bars,"Figure 1 Mortality and disease burden (DALYs) in women aged 15-44 years by region and broad causes, 2004",Top-center,2,3,n,2,n,n,54.02,25.51,68.75,0,0,0
+whoB22_1.png,World Health Organization,G,Table,"Table 2 Deaths in women aged 15-44 years attributable to six leading risk factors, 2004 (percentage)",Top,2,1,n,1,n,n,44.83,26.88,66.67,1,0,0
+whoB24_1.png,World Health Organization,G,Distribution,"Figure 4 Distribution of countries by numbers of deaths attributable to unsafe abortion per 100 000 live births and legal grounds for abortion",Top-center,1,1,n,1,n,n,30.59,5.05,58.82,0,0,0
+whoB25_2.png,World Health Organization,G,Lines,"Figure 7 HIV prevalence in women and men by age group, selected countries",Top-center,1,2,n,2,n,n,61.63,32.32,82.35,0,0,0
+whoB32_1.png,World Health Organization,G,Bars,"Figure 4 Prevalence of physical or sexual violence, or both, by an intimate partner among women aged 15-49 years* selected countries",Top-center,2,1,n,1,n,n,43.82,19.23,66.67,0,0,0
+whoI11_1.png,World Health Organization,G,Bars,"Cryptosporidium Prevalence in Sheep",Top-center,3,1,y,2,n,n,77.91,39.39,88.89,0,0,0
+whoI11_2.png,World Health Organization,G,Bars,"Cryptosporidium Prevalence in Cattle",Top-center,1,1,y,2,n,n,47.31,6.00,87.50,0,0,0
+whoI12_2.png,World Health Organization,G,Bars,"Giardia Prevalence",Top-center,3,1,y,2,n,n,78.02,32.32,92.31,0,0,0
+whoI14.png,World Health Organization,G,Table,"Table 5.4 Concentration of Giardia cysts in animal faeces.",Top-left,1,1,y,1,n,n,36.67,17.65,87.50,0,0,0
+whoI19.png,World Health Organization,G,Lines,"E. coli O157: Laboratory isolates, 1984-2008",Top-center/right,2,1,y,1,n,n,34.38,4.95,58.33,0,0,0
+whoI22.png,World Health Organization,G,Bars,"Figure 12.1 Estimated relative contribution of pollution sources to the overall problem of bacteriological bathing water contamination.",Bottom,2,1,y,1,n,n,37.08,0.00,33.33,0,0,0
+whoJ15_1.png,World Health Organization,G,Bars,"Government expenditure (from taxes and transfers) on sanitation and drinking-water ranged from 0.37% to 3.5% of GDP (Figure 3.2).",Top,1,1,n,2,n,n,37.08,16.16,27.78,1,1,0
+whoJ15_2.png,World Health Organization,G,Table,"Summary data from respondent countries indicate that median government expenditure on sanitation and drinking-water is one third of that for health and one sixth of that for education (Table 3.4).",Top,2,1,n,1,n,n,32.10,9.89,26.67,0,1,0
+whoJ23.png,World Health Organization,G,Circles,"One third of countries indicate that revenues cover less than 80% of operating costs for urban utilities (Figure 3.11).",Top,1,2,n,1,n,n,28.09,16.67,28.57,1,1,0
+whoJ32.png,World Health Organization,G,Bars,"Aid commitments to water and sanitation remained at 4.7% (US$ 7.8 billion) of total reported development aid in 2010 (Figure 6.1).",Top,1,2,n,1,n,n,35.96,17.17,77.78,0,1,0
+whoJ33.png,World Health Organization,G,Lines,"Aid for drinking-water and sanitation has risen slowly as a percentage of total development aid since the low point of 2002, but is still significantly below aid for social sectors, such as health and education (Figure 6.2).",Top,1,2,n,1,n,n,45.78,25.77,82.35,0,1,0
+whoJ36_1.png,World Health Organization,G,Bars,"Multiple factors influence donor aid prioritization (Figure 6.6).",Top-left,1,1,n,1,n,n,25.88,9.38,31.58,0,1,0
+whoJ36_2.png,World Health Organization,G,Lines,"Development aid for sanitation and drinking-water to fragile and conflict-affected states increased by 50% from US$ 560 million to US$ 840 million from 2007 to 2010 (Figure 6.7).",Top,1,2,n,2,n,n,35.80,15.56,50.00,0,1,0
+whoJ40_1.png,World Health Organization,G,Bars,"FIGURE 6.12 Breakdown in aid commitments to sanitation and drinking-water, among purpose types, by ESA, 2008-2010 annual average",Upper-bottom,2,2,n,1,n,n,28.40,5.21,52.94,0,0,1
+whoJ40_2.png,World Health Organization,G,Circles,"ESAs indicate that 68% of aid for sanitation and water is directed to urban areas (Figure 6.13).",Top,1,2,n,1,n,n,43.01,8.74,58.82,1,1,0
+whoJ43_2.png,World Health Organization,G,Table,"TABLE 6.3 Specific targets for increasing access to drinking-water and sanitation services globally",Top-left,1,1,n,1,n,n,38.30,20.00,60.00,0,0,0
+whoJ44.png,World Health Organization,G,Lines,"Despite rising total ODA, general budget support has not risen appreciably (Figure 6.16).",Top,1,1,n,1,n,n,23.81,14.43,31.25,1,1,0
+whoJ48_2.png,World Health Organization,G,Maps,"Over 40% of the country respondents reported widespread implementation of national hygiene promotion programmes in primary health-care facilities (Figure 7.7).",Top-left,2,2,n,2,y,n,51.11,27.37,33.33,0,1,0
+whoK04_2.png,World Health Organization,G,Bars,"Since 1990, drinking water coverage in the developing world has increased by 16 percentage points",Top,2,1,n,1,n,n,38.27,8.51,55.56,1,1,0
+whoK06_2.png,World Health Organization,G,Circles,"Ten countries are home to two thirds of the global population without an improved drinking water source",Top,2,3,n,1,n,n,53.41,23.00,83.33,0,1,0
+whoK07_2.png,World Health Organization,G,Table,"Global trends in the use of different drinking water sources (population)",Top-left,1,1,y,1,n,n,30.68,25.49,44.44,0,0,0
+whoK08.png,World Health Organization,G,Table,"(paragraph) TABLE 3 Selected countries in sub-Saharan Africa that have performed above the regional average in terms of the proportion of their 2010 population that gained access to improved drinking water sources since 1995",Bottom,1,1,y,1,n,n,46.07,12.12,66.67,0,0,0
+whoK12_2.png,World Health Organization,G,Maps,"The world is not on track to meet the MDG sanitation target",Top-left,1,2,n,1,y,n,57.78,36.17,81.25,0,1,0
+whoK17_1.png,World Health Organization,G,Bars,"The majority of people who rely on shared or public sanitation facilities live in urban areas",Top-left,2,1,n,1,n,n,30.43,7.00,58.82,1,1,0
+whoK19_1.png,World Health Organization,G,Bars,"Urban-rural disparities in sanitation have decreased",Top-left,2,2,n,2,n,n,71.59,19.23,94.74,1,1,0
+whoK23_2.png,World Health Organization,G,Bars,"Open defecation is practised by nearly a quarter of the population in least developed countries",Top,3,2,n,2,n,n,70.79,38.95,100.00,1,1,0
+whoK31.png,World Health Organization,G,Maps,"",none,1,3,n,1,y,n,55.95,26.47,94.12,0,0,0
+whoL03.png,World Health Organization,G,Table,"Table 2.1: Comparison of terms for describing the ecological character of wetlands",Top,1,1,n,1,n,n,35.71,1.03,73.33,0,0,0
+whoL06.png,World Health Organization,G,Bars,"Figure 2.5: The under-5 child mortality as a function of socio-economic group in five countries",Bottom,2,1,n,1,n,n,30.12,11.22,66.67,0,0,0
+whoL09.png,World Health Organization,G,Circles,"Figure 3.2: Sphere of needs met by water (from wetlands)(Syme et al. 2008)",Bottom-center,2,1,y,2,n,n,48.86,2.04,89.47,0,0,0
+whoL10.png,World Health Organization,G,Diagrams,"Framework for TEV of wetland ecosystem services (adapted from Turner et al. 2000).",Bottom,2,2,n,1,n,n,34.15,2.97,78.95,0,0,0
+whoL11.png,World Health Organization,G,Maps,"Figure 4.1: Global map of irrigated, rainfed and flooded and non-flooded rice fields (from Hijmans 2007)",Bottom,2,2,n,1,y,n,79.49,6.67,85.00,0,1,0
+whoL12.png,World Health Organization,G,Diagrams,"Figure 5.1: The agricultural use of antibiotics in animal feed (from Khachatourians (1998))",Bottom-center,2,2,n,1,n,n,36.78,3.06,83.33,0,0,0
+whoL14.png,World Health Organization,G,Diagrams,"Wetland practices",Upper-bottom center,1,3,n,1,n,n,68.97,10.00,88.24,0,0,0
+whoM05.png,World Health Organization,G,Table,"Proportion of all deaths attributable to tobacco (%)",none,1,1,y,1,n,n,43.68,12.87,86.67,0,0,0
+whoN05.png,World Health Organization,G,Lines,"Figure 3. Recorded adult per capita consumption, in litres of pure alcohol, by WHO region and the world, 1990-2005a",Top,2,3,n,1,n,n,31.52,17.00,78.57,0,0,0
+whoN08.png,World Health Organization,G,Table,"Table 5. Percentage of students who drank at least one drink containing alcohol on one of more of the past 30 days, in countries of WHO regions (based on the data from GSHS)a",Top,2,2,n,2,n,n,28.41,8.60,57.14,0,0,0
+whoN10.png,World Health Organization,G,Table,"Table 6. Prevalence of alcohol abstentation by sex, WHO region and the world, 2004a",Top-left,2,2,n,2,n,n,31.76,15.46,72.22,0,0,0
+whoN16_1.png,World Health Organization,G,Bars,"Table 12. Global alcohol-attributable deaths as a percentage of total deaths by disease or injury, 2004a",Top,1,1,n,1,n,n,40.48,25.25,84.21,0,0,0
+whoN18.png,World Health Organization,G,Table,"Table 8. Global alcohol-attributable deaths, distribution of deaths and population-attributable fractions by disease and injury, 2004a",Top,2,2,n,2,n,n,40.23,29.90,68.75,0,1,0
+whoN21_1.png,World Health Organization,G,Bars,"Figure 17. Global distribution of alcohol-attributable deaths and DALYs by broad disease and injury categories, 2004a",Top,2,2,n,1,n,n,42.86,20.20,66.67,0,0,0
+whoN22.png,World Health Organization,G,Maps,"Figure 19. Alcohol-attributable DALYs as a percentage of total DALYs by WHO subregion, 2004",Top,1,2,n,1,y,n,59.30,47.83,88.89,0,0,0
+whoN23_2.png,World Health Organization,G,Bars,"Figure 21. DALYs lost attributable to 10 leading risk factors for the age group 15-59 years in the world, 2004",Top,1,1,y,1,n,n,32.18,11.34,64.71,0,0,0
+whoN32_2.png,World Health Organization,G,Bars,"Figure 27. Blood alcohol concentration (BAC) limits for commercial drivers, by numbers of countries, 2008",Top,1,1,y,1,n,n,44.44,21.88,86.67,0,0,0
+whoN33.png,World Health Organization,G,Diagrams,"Figure 28. Countries reporting random breath testing of drivers, 2008",Top,1,1,y,1,n,n,48.28,1.04,93.75,0,0,0
+whoO06_2.png,World Health Organization,G,Bars,"Figure 7: Percentage of disability-adjusted life years (DALYs) attributed to 19 leading risk factors, by country income level, 2004.",Top,1,2,n,1,n,n,38.20,12.77,70.59,0,0,0
+whoO12.png,World Health Organization,G,Table,"Table 4: Deaths and DALYs attributable to six diet-related risks and physical inactivity, and to all six risks combined, by region, 2004",Top-left,2,1,n,1,n,n,46.67,25.71,60.00,0,0,0
+whoP13.png,World Health Organization,G,Table,"Table 10. Common radon mitigation techniques, performance and costs a,b",Top-left,1,1,n,2,n,n,41.30,27.72,43.75,0,0,0
+whoP16.png,World Health Organization,G,Table,"Table 14. Data inputs for a cost-effectiveness model",Top-left,2,1,n,1,n,n,34.88,13.59,61.11,0,0,0
+whoQ06_2.png,World Health Organization,G,Lines,"Figure 3.6 Change over time in allocation of international funds for malaria control.",Top,1,1,n,1,n,n,36.90,18.75,64.71,0,0,0
+whoQ09_2.png,World Health Organization,G,Bars,"Figure 4.4 Proportion of the population with access to an ITN and proportion sleeping under an ITN in household, among countries with three or more surveys, 2003-2011",Top,1,1,n,1,n,n,38.54,31.78,64.71,0,0,0
+whoQ11_1.png,World Health Organization,G,Lines,"Figure Box 4.1e Proportion of the population sleeping under an ITN, by five year age groups, 2003-2008",Top-left,2,1,n,1,n,n,31.03,13.13,80.00,0,0,0
+whoQ14_2.png,World Health Organization,G,Bars,"Figure 5.1 Proportion of women attending antenatal care receiving the second dose of IPTp, 2011",Top-left,1,1,n,1,n,n,38.14,15.09,66.67,0,0,0
+whoQ15_1.png,World Health Organization,G,Points,"Figure Box 5.1a Proportion of all pregnant women receiving a second dose of IPTp, by urban and rural area, 2003-2011",Top,2,1,n,1,n,n,51.69,39.22,62.50,0,0,0
+whoQ18_3.png,World Health Organization,G,Bars,"Figure 6.5 Number of patients examined by microscopy, by WHO Region, 2000-2011",Top-left,2,1,n,1,n,n,28.09,16.19,56.25,0,0,0
+whoQ26.png,World Health Organization,G,Maps,"Figure 6.17 Sites where suspected or confirmed artemisinin resistance has been detected in therapeutic efficacy studies, Mekong subregion, 2007-2012",Top,1,1,n,1,y,n,42.68,6.32,70.00,0,1,0
+whoQ32_2.png,World Health Organization,G,Points,"Figure 8.3 Percentage change in reported case incidence versus reported cases in 2000",Top,2,1,n,1,n,n,23.53,12.09,29.41,0,0,0
+whoQ41_1.png,World Health Organization,G,Bars,"A-Population at risk, 2011",Top-left,2,1,n,2,n,n,52.17,23.76,88.24,0,0,0
+whoQ42_1.png,World Health Organization,G,Bars,"C-Annual blood examination rate, 2007-2011",Top-left,1,1,n,1,n,n,70.45,43.00,88.89,0,0,0
+whoQ44_4.png,World Health Organization,G,Area,"F-Countries projected to achieve <75% decrease in admission rates by 2015 or with insufficent data to assess trends",Top,2,1,n,1,n,n,63.33,45.16,76.92,0,0,0
+whoQ48_4.png,World Health Organization,G,Area,"F-Countries projected to achieve <75% decrease in case incidence by 2015 or with insufficent data to asses trends",Top,1,1,n,1,n,n,54.44,37.50,60.00,0,0,0
+whoQ48_5.png,World Health Organization,G,Lines,"G-Countries projected to achieve >75% decrease in case incidence by 2015",Top,1,1,n,1,n,n,54.65,55.10,55.00,0,0,0
+whoQ50_2.png,World Health Organization,G,Bars,"D-Percentage change in case incidence, 2000-2011",Top-left,1,1,n,1,n,n,38.55,31.25,64.29,0,0,0
+whoQ51_2.png,World Health Organization,G,Bars,"B-Percentage of cases due to P.falciparum, 2007-2011",Top-left,1,1,n,1,n,n,52.38,44.33,72.22,0,0,0
+whoQ52_4.png,World Health Organization,G,Area,"F-Countries projected to achieve <75% decrease in case incidence by 2015 or with insufficent data to asses trends",Top,2,1,n,1,n,n,50.00,40.40,57.14,0,0,0
+wsj10.png,Wall Street Journal,N,Maps,"Terminal City",Top-left,2,2,n,2,y,n,72.94,7.07,100.00,0,0,0
+wsj104.png,Wall Street Journal,N,Diagrams,"Under Pressure",Top-left,1,1,n,2,y,n,81.40,5.00,100.00,0,1,0
+wsj108.png,Wall Street Journal,N,Lines,"Pushing the Limit",Top-left,2,2,n,1,n,n,51.09,18.00,70.59,0,1,0
+wsj11.png,Wall Street Journal,N,Bars,"Upturn Amid Downturn",Top-left,1,1,n,1,n,n,50.00,10.89,33.33,0,0,0
+wsj116.png,Wall Street Journal,N,Diagrams,"Genetic Transfer",Top-left,1,2,n,3,y,n,55.81,9.09,93.75,0,1,0
+wsj129.png,Wall Street Journal,N,Bars,"Book Boycott",Top-left,3,3,n,3,y,y,72.94,1.96,94.12,1,1,0
+wsj135.png,Wall Street Journal,N,Bars,"Home-Loan Hiatus",Top-left,1,2,n,2,n,n,58.62,15.46,40.00,0,1,0
+wsj144.png,Wall Street Journal,N,Maps,"Flights Flower at La Guardia",Top-left,1,2,n,1,y,n,62.79,9.47,92.86,1,1,0
+wsj147.png,Wall Street Journal,N,Diagrams,"Flaring Up | How a solar storm creates a celestial light show",Top-center,1,3,n,2,y,n,71.26,6.19,100.00,0,1,0
+wsj162.png,Wall Street Journal,N,Bars,"Diamond Politics | For whatever reason, the Mets have done better when a Republican is in the White House",Top-left,2,2,n,3,y,y,79.57,16.35,100.00,0,1,0
+wsj167.png,Wall Street Journal,N,Lines,"Debt Struggle",Top-left,2,2,n,2,n,n,60.67,21.15,47.06,0,1,0
+wsj170.png,Wall Street Journal,N,Lines,"Market Mover",Top-left,2,1,n,2,n,n,52.38,17.89,52.63,0,1,0
+wsj172.png,Wall Street Journal,N,Bars,"Belt-Tightening",Center-left,1,2,n,2,n,n,58.54,15.31,87.50,0,1,0
+wsj176.png,Wall Street Journal,N,Bars,"Hobbled Hiring",Top-left,1,1,n,2,n,n,67.90,17.35,27.78,0,0,0
+wsj184.png,Wall Street Journal,N,Lines,"Will the Market Sideline Investors?",Top-left,3,2,n,3,y,n,49.43,1.03,84.21,1,1,0
+wsj20.png,Wall Street Journal,N,Lines,"He Shoots, HeÉÉÉÉÉÉÉÉÉ..Scores!!!",Top-left,2,3,n,2,y,y,73.91,7.69,100.00,0,1,0
+wsj21.png,Wall Street Journal,N,Circles,"Fleet Makeup",Top-left,2,2,n,3,y,n,66.67,6.32,93.75,0,1,0
+wsj214.png,Wall Street Journal,N,Diagrams,"Organs On Demand",Top-left,1,3,n,3,y,y,59.34,0.00,94.74,0,1,0
+wsj220.png,Wall Street Journal,N,Bars,"Lethal Force",Top-left,1,1,n,1,n,n,62.22,14.14,75.00,0,0,0
+wsj226.png,Wall Street Journal,N,Bars,"Crop Shrinkage",Top-left,3,3,n,3,y,n,63.22,4.04,82.35,1,1,0
+wsj233.png,Wall Street Journal,N,Table,"Serving Up",Top-left,2,2,n,2,y,n,86.52,14.29,94.12,0,1,0
+wsj240.png,Wall Street Journal,N,Table,"Multiple Choice",Top-left,2,2,n,1,y,n,65.12,15.15,81.25,0,1,0
+wsj259.png,Wall Street Journal,N,Lines,"Dynamic Pricing",Top-left,3,2,n,2,y,n,33.73,4.95,64.29,1,1,0
+wsj262.png,Wall Street Journal,N,Lines,"Big Lead",Top-left,2,2,n,2,n,n,72.41,36.84,90.00,1,1,0
+wsj264.png,Wall Street Journal,N,Bars,"Broken Promises",Top-right,3,3,n,3,y,n,80.46,2.11,100.00,0,1,0
+wsj270.png,Wall Street Journal,N,Lines,"Turning East",Top-left,1,2,n,2,y,n,74.70,20.00,82.35,0,1,0
+wsj271.png,Wall Street Journal,N,Bars,"Take Two",Top-left,2,2,n,2,n,n,65.12,13.83,60.00,1,1,0
+wsj277.png,Wall Street Journal,N,Bars,"In the Mix",Top-left,2,2,n,2,n,n,40.43,9.52,82.35,1,1,0
+wsj28.png,Wall Street Journal,N,Bars,"Reworking the Code",Top-left,1,1,n,2,n,n,34.88,10.10,33.33,1,0,0
+wsj286.png,Wall Street Journal,N,Area,"Maiden Math",Top-left,2,2,n,2,n,n,55.06,9.71,66.67,1,1,0
+wsj292.png,Wall Street Journal,N,Bars,"Megawatts Math",Top-left,2,2,n,2,n,n,63.95,7.37,92.31,1,1,0
+wsj294.png,Wall Street Journal,N,Points,"Parental Legacy",Top-left,2,2,n,2,n,n,58.06,19.42,76.47,1,1,0
+wsj297.png,Wall Street Journal,N,Diagrams,"Mind Games | What happens where in the brain",Top-left,1,2,n,2,y,n,67.42,5.00,89.47,0,1,0
+wsj299.png,Wall Street Journal,N,Bars,"Pumped Up",Top-left,2,3,n,3,y,n,76.54,2.20,93.75,1,1,0
+wsj308.png,Wall Street Journal,N,Bars,"The Great Divide",Top-left,1,2,n,1,n,n,62.65,42.86,82.35,0,1,0
+wsj316.png,Wall Street Journal,N,Lines,"Safe Haven in a Global Crisis",Top-left,2,2,n,3,y,n,59.77,8.25,58.82,0,1,0
+wsj340.png,Wall Street Journal,N,Circles,"Running Dry",Top-left,2,2,n,2,n,n,68.18,13.98,71.43,1,0,0
+wsj359.png,Wall Street Journal,N,Lines,"Getting Wild",Top-left,3,2,n,2,n,n,67.42,19.19,76.47,0,1,0
+wsj360.png,Wall Street Journal,N,Bars,"By the Numbers",Top-left,2,1,n,2,n,n,53.33,9.38,61.11,1,0,0
+wsj392.png,Wall Street Journal,N,Area,"Cash Flow",Top-left,2,2,n,1,n,n,78.41,24.21,88.24,1,0,0
+wsj395.png,Wall Street Journal,N,Lines,"Elbow Room",Top-left,2,1,n,2,n,n,68.83,5.49,43.75,0,1,0
+wsj405.png,Wall Street Journal,N,Lines,"Three Weeks of Turmoil | Barclays faced upheaval after settling rate-rigging allegations",Top,2,2,n,2,n,n,45.98,13.68,50.00,1,1,0
+wsj441.png,Wall Street Journal,N,Maps,"Falling Rains",Top-right,2,2,n,1,y,n,71.43,6.06,84.62,0,1,0
+wsj459.png,Wall Street Journal,N,Bars,"News Corp. Results, by Segment",Top-left,2,1,n,2,n,n,36.17,7.55,52.94,1,0,0
+wsj462.png,Wall Street Journal,N,Maps,"Regional Trends",Top-left,1,2,n,1,y,n,63.64,12.77,81.25,1,1,0
+wsj474.png,Wall Street Journal,N,Circles,"Parental Payouts",Top-left,2,3,n,2,n,n,49.45,13.27,87.50,1,0,0
+wsj481.png,Wall Street Journal,N,Bars,"Foreign Bookings",Top-left,1,1,n,1,n,n,71.43,24.30,66.67,1,0,0
+wsj505.png,Wall Street Journal,N,Table,"The Playing Field",Top-left,3,3,n,1,y,y,67.06,8.16,78.57,0,1,0
+wsj508.png,Wall Street Journal,N,Lines,"Pullback",Top-left,2,2,n,2,n,n,55.00,16.49,62.50,1,1,0
+wsj511.png,Wall Street Journal,N,Maps,"Buried Treasure",Top-left,2,2,n,2,y,n,66.25,8.70,94.74,0,1,0
+wsj52.png,Wall Street Journal,N,Lines,"Losing Its Luster",Top-left,2,2,n,2,y,n,77.66,4.00,94.12,0,1,0
+wsj521.png,Wall Street Journal,N,Bars,"Charity Cases",Top-left,2,1,n,1,n,n,53.26,9.18,71.43,1,0,0
+wsj529.png,Wall Street Journal,N,Bars,"Targeting the Young",Top,1,2,n,1,n,n,67.03,12.62,62.50,0,0,0
+wsj533.png,Wall Street Journal,N,Points,"Odd State Out",Top-left,2,2,n,2,n,n,40.86,8.74,81.25,0,1,0
+wsj536.png,Wall Street Journal,N,Bars,"Bond Room",Top-left,3,3,n,3,y,y,80.52,2.15,64.29,0,1,0
+wsj54.png,Wall Street Journal,N,Lines,"Closing the Gap",Top-left,1,2,n,1,n,n,74.16,32.00,88.89,0,1,0
+wsj540.png,Wall Street Journal,N,Points,"Southern Bellwether",Top-left,2,2,n,2,n,n,48.15,7.53,83.33,1,0,0
+wsj55.png,Wall Street Journal,N,Bars,"If We Step Away From the Edge",Top-left,1,2,n,2,n,n,50.00,5.26,29.41,0,0,0
+wsj553.png,Wall Street Journal,N,Bars,"Female Representation",Top-left,3,3,n,2,y,y,74.07,8.42,100.00,1,1,0
+wsj557.png,Wall Street Journal,N,Points,"Surging Demand",Top-left,3,2,n,3,y,n,66.28,4.40,83.33,0,1,0
+wsj561.png,Wall Street Journal,N,Diagrams,"Should You Use Hormone Therapy?",Top-left,1,2,n,1,n,n,54.32,6.38,90.00,0,1,0
+wsj593.png,Wall Street Journal,N,Bars,"Off Season",Top-left,1,2,n,1,n,n,55.17,3.26,87.50,1,1,0
+wsj612.png,Wall Street Journal,N,Lines,"Funding Gap",Top-left,2,2,n,2,n,n,67.78,41.41,78.57,1,1,0
+wsj79.png,Wall Street Journal,N,Table,"Poll Positions",Top-left,2,2,n,1,y,n,56.67,4.08,75.00,0,1,0
+wsj9.png,Wall Street Journal,N,Bars,"Brought to Light",Top-left,1,2,n,1,n,n,56.10,12.77,58.82,0,1,0
+wsj99.png,Wall Street Journal,N,Maps,"Battle Lines",Top-left,1,2,n,2,y,n,66.30,8.82,100.00,0,1,0
