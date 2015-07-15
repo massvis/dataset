@@ -17,10 +17,12 @@ IEEE Transactions on Visualization and Computer Graphics (Proceedings of InfoVis
 Please cite the corresponding papers if you use this data.
 
 On this public github repository we can only provide the meta-data and labels.
-To obtain the source images, please fill out the following [request form](http://massvis.mit.edu/#data)
+To obtain the source images, please fill out the following [request form](http://massvis.mit.edu/#data).
 
 By using this dataset, you are agreeing to the following license agreement:
-*Access to, and use of, the images, and annotations in this dataset are for research and educational uses only. No commercial use, reproduction or distribution of the images, or any modifications thereof, is permitted.* 
+> Access to, and use of, the images, and annotations in this dataset are for research and educational uses only. No commercial use, reproduction or distribution of the images, or any modifications thereof, is permitted.* 
+
+---
 
 ###[allImages.csv](https://github.com/massvis/dataset/blob/master/allImages.csv)
 
