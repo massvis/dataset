@@ -2,17 +2,19 @@
 
 We make available the data and annotations used in the following papers: 
 
-(1) What Makes a Visualization Memorable?
-Borkin, M., Vo, A., Bylinskii, Z., Isola, P., Sunkavalli, S., Oliva, A., & Pfister, H.
+<dl>
+(1) What Makes a Visualization Memorable?<br>
+Borkin, M., Vo, A., Bylinskii, Z., Isola, P., Sunkavalli, S., Oliva, A., & Pfister, H.<br>
 IEEE Transactions on Visualization and Computer Graphics (Proceedings of InfoVis 2013)
 
-(2) A Crowdsourced Alternative to Eye-tracking for Visualization Understanding
+(2) A Crowdsourced Alternative to Eye-tracking for Visualization Understanding.<br>
 Kim, N.W., Bylinskii, Z., Borkin, M., Oliva, A., Gajos, K.Z., & Pfister, H.
 Proceedings of the ACM Conference Extended Abstracts on Human Factors in Computing Systems (CHI EA '15)
 
-(3) Beyond Memorability: Visualization Recognition and Recall
+(3) Beyond Memorability: Visualization Recognition and Recall.
 Borkin, M., Bylinskii, Z., Kim, N.W., Bainbridge C.M., Yeh, C.S., Borkin, D., Pfister, H., & Oliva, A.
 IEEE Transactions on Visualization and Computer Graphics (Proceedings of InfoVis 2015)
+</dl>
 
 Please cite the corresponding papers if you use this data.
 
