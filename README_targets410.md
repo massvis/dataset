@@ -32,6 +32,7 @@ Identifying information:
 * **category**: the source category - one of: government/world organizations (G), news media (N), infographics (I), or scientific publications (S)
 * **vistype**: based on the visualization taxonomy (from Borkin et al. 2013) - one of: area, bars, circles, diagrams, distribution, grid/matrix, lines, maps, points, table, trees and networks
 * **title**: manually transcribed from the visualization
+* **title location**: top-left, bottom-right, top-center, etc.
 
 Attributes:
 * **attr: data-ink ratio**: ratio of data to non-data elements - from low (1) to high (3)	
@@ -42,11 +43,20 @@ Attributes:
 * **attr: human depiction**: presence (y) or absence (n)
 
 Memorability scores:		
-* mem: hits	
-* mem: misses	
-* mem: false alarms	
-* mem: correct rejections
+* **mem: hits**: total number of times (across all AMT workers) visualization was recognized when shown for the second time
+* **mem: misses**: total number of times visualization was not recognized (missed) when shown for the second time	
+* **mem: false alarms**: total number of times visualization was mistakenly recognized when shown for the first time
+* **mem: correct rejections**: total number of times visualization was shown for the first time and not mistakenly recognized
+
+To convert these scores to HR (hit rate), FAR (false alarm rate), dprime and a few others, see the first page of [http://figrim.mit.edu/supplemental.pdf](http://figrim.mit.edu/supplemental.pdf). 
 
 ###[targets410_metadata.mat](https://github.com/massvis/dataset/blob/master/targets410_metadata.mat)
 
-This is a Matlab allImages struct that contains all the fields discussed above. For example, allImages(i).source will print the source category for the i-th image. 
+This is a Matlab allImages struct that contains all the fields discussed above. 
+For instance, the attributes for the i-th image are: 
+* allImages(i).minimalist corresponds to data-ink ratio
+* allImages(i).color corresponds to # distinct colors
+* allImages(i).bwg corresponds to black&white
+* allImages(i).clutter corresponds to visual density
+* allImages(i).object corresponds to human recognizable object
+* allImages(i).person corresponds to human depiction
