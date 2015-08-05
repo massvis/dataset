@@ -52,7 +52,7 @@ To convert these scores to HR (hit rate), FAR (false alarm rate), dprime and a f
 
 ###[targets410_metadata.mat](https://github.com/massvis/dataset/blob/master/targets410_metadata.mat)
 
-This is a Matlab allImages struct that contains all the fields discussed above. 
+This is a Matlab allImages struct that is equivalent to the data in the csv file, and contains all the fields discussed above. 
 For instance, the attributes for the i-th image are: 
 * allImages(i).minimalist corresponds to data-ink ratio
 * allImages(i).color corresponds to # distinct colors
