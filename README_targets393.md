@@ -26,7 +26,7 @@ By using this dataset, you are agreeing to the following license agreement:
 
 ###[targets393_metadata.csv](https://github.com/massvis/dataset/blob/master/targets393_metadata.csv)
 
-This file contains taxonomic labels and attributes for 393 visualizations. These include the source, category, and type of each visualization, as well as the following attributes: data-ink ratio, number of distinctive colors, black & white, visual density, human recognizable object (HRO), and human depiction. From (3), we also provide the transcribed title for each visualization and where the title was located on the visualization, as well as whether the visualization contained data or message redundancy. From (1) we include at-a-glance memorability scores (after 1 second of viewing) and from (3) we include prolonged memorability scores (after 10 seconds of viewing). 
+This file contains taxonomic labels and attributes for 393 visualizations. These include the source, category, and type of each visualization, as well as the following attributes: data-ink ratio, number of distinctive colors, black & white, visual density, human recognizable object (HRO), and human depiction. We also provide the transcribed title for each visualization and where the title was located on the visualization, as well as whether the visualization contained data or message redundancy. From we include at-a-glance memorability scores (after 1 second of viewing) and from we include prolonged memorability scores (after 10 seconds of viewing). 
 
 ###[targets393_metadata.mat](https://github.com/massvis/dataset/blob/master/targets393_metadata.mat)
 
