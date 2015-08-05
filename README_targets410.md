@@ -20,9 +20,32 @@ By using this dataset, you are agreeing to the following license agreement:
 
 *To use any of these images in a research paper or technical report, do not exceed thumbnail size.
 
+This data contains taxonomic labels and attributes for 410 visualizations. These include the source, category, and type of each visualization, as well as the following attributes: data-ink ratio, number of distinctive colors, black & white, visual density, human recognizable object (HRO), and human depiction. We also provide the transcribed title for each visualization and where the title was located on the visualization. From the Amazon Mechanical Turk (AMT) Experiments, we provide the number of hits, misses, false alarms, and correct rejections per image, which can be converted into the desired memorability scores (HR, FAR, dprime, etc.).
+
 ###[targets410_metadata.csv](https://github.com/massvis/dataset/blob/master/targets410_metadata.csv)
 
-This file contains taxonomic labels and attributes for 410 visualizations. These include the source, category, and type of each visualization, as well as the following attributes: data-ink ratio, number of distinctive colors, black & white, visual density, human recognizable object (HRO), and human depiction. We also provide the transcribed title for each visualization and where the title was located on the visualization. From the Amazon Mechanical Turk (AMT) Experiments, we also provide the number of hits, misses, false alarms, and correct rejections per image, which can be converted into the desired memorability scores (HR, FAR, dprime, etc.).
+Columns:
+
+Identifying information:
+* filename: corresponds to a target image that you can download by filling out the [request form](http://massvis.mit.edu/#data).
+* source: the source website for the visualization
+* category: the source category - one of: government/world organizations (G), news media (N), infographics (I), or scientific publications (S)
+* vistype: based on the visualization taxonomy (from Borkin et al. 2013) - one of: area, bars, circles, diagrams, distribution, grid/matrix, lines, maps, points, table, trees and networks
+* title: manually transcribed from the visualization
+
+Attributes:
+* attr: data-ink ratio: ratio of data to non-data elements - from low (1) to high (3)	
+* attr: # distinct colors: 1 color (1) or 2-6 colors (2) or 7 or more colors (3)
+* attr: black&white: binary attribute - yes (y) or no (n)	
+* attr: visual density: low visual density (1) to high visual density (3)
+* attr: human recognizable object: presence (y) or absence (n)	
+* attr: human depiction: presence (y) or absence (n)
+
+Memorability scores:		
+* mem: hits	
+* mem: misses	
+* mem: false alarms	
+* mem: correct rejections
 
 ###[targets410_metadata.mat](https://github.com/massvis/dataset/blob/master/targets410_metadata.mat)
 
