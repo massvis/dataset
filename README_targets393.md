@@ -24,10 +24,52 @@ By using this dataset, you are agreeing to the following license agreement:
 
 *To use any of these images in a research paper or technical report, do not exceed thumbnail size.
 
+This data contains taxonomic labels and attributes for 393 visualizations. These include the source, category, and type of each visualization, as well as the following attributes: data-ink ratio, number of distinctive colors, black & white, visual density, human recognizable object (HRO), and human depiction. We also provide the transcribed title for each visualization and where the title was located on the visualization, as well as whether the visualization contained data or message redundancy. From we include at-a-glance memorability scores (after 1 second of viewing) and from we include prolonged memorability scores (after 10 seconds of viewing). 
+
 ###[targets393_metadata.csv](https://github.com/massvis/dataset/blob/master/targets393_metadata.csv)
 
-This file contains taxonomic labels and attributes for 393 visualizations. These include the source, category, and type of each visualization, as well as the following attributes: data-ink ratio, number of distinctive colors, black & white, visual density, human recognizable object (HRO), and human depiction. We also provide the transcribed title for each visualization and where the title was located on the visualization, as well as whether the visualization contained data or message redundancy. From we include at-a-glance memorability scores (after 1 second of viewing) and from we include prolonged memorability scores (after 10 seconds of viewing). 
+Columns:
+
+Identifying information:
+* **filename**: corresponds to a target image that you can download by filling out the [request form](http://massvis.mit.edu/#data).
+* **source**: the source website for the visualization
+* **category**: the source category - one of: government/world organizations (G), news media (N), infographics (I), or scientific publications (S)
+* **vistype**: based on the visualization taxonomy (from Borkin et al. 2013) - one of: area, bars, circles, diagrams, distribution, grid/matrix, lines, maps, points, table, trees and networks
+* **title**: manually transcribed from the visualization
+* **title location**: top-left, bottom-right, top-center, etc.
+
+Attributes:
+* **attr: data-ink ratio**: ratio of data to non-data elements - from low (1) to high (3)	
+* **attr: # distinct colors**: 1 color (1) or 2-6 colors (2) or 7 or more colors (3)
+* **attr: black&white**: binary attribute - yes (y) or no (n)	
+* **attr: visual density**: low visual density (1) to high visual density (3)
+* **attr: human recognizable object**: presence (y) or absence (n)	
+* **attr: human depiction**: presence (y) or absence (n)
+
+Memorability scores:		
+* **mem: at-a-glance HR**: the hit rate score from the Amazon Mechanical Turk (AMT) experiments with 1 second of viewing per visualization (Borkin et al. 2013)
+* **mem: at-a-glance FAR**: the false alarm rate score from the AMT experiments with 1 second of viewing per visualization (Borkin et al. 2013)
+* **mem: prolonged HR**: the hit rate score from the eyetracking experiments with 10 seconds of viewing per visualization (Borkin et al. 2015)
+
+Annotations:
+* **data redundancy:** a binary attribute indicating whether or not the data being presented is visually encoded in more than one way (e.g. via the addition of quantitative values as labels or the use of channels such as color, size, or opacity to represent a value already exhibited in a visualization such as the x- or y-axis values) - see Borkin et al. 2015 for details
+* **message redundancy:** a binary attribute indicating whether the main conclusion or message of the visualization is explicitly presented to the viewer in multiple ways (e.g. via explanatory annotations, labels, text, and pictures) - see Borkin et al. 2015 for details
+* **illegible:** if any of the experimental participants complained about difficulty of reading the text in the visualization, we removed the visualization from the textual description analysis and marked this column with a 1
+
+###[targets393_elementLabels.zip](https://github.com/massvis/dataset/blob/master/targets393_elementLabels.zip)
+
+For each filename corresponding to one of the 393 visualizations, there is a comma-separated plain text file with all the polygon element labels for that visualization.
+There is one polygon vertex per line, formatted as follows: polygon ID (one ID per polygon in an image), polygon name (not unique to a polygon - e.g. multiple annotations may be labeled in an image), x and y vertex locations in the image. Note that all the vertices for a single polygon will be located on consecutive lines of the file.
 
 ###[targets393_metadata.mat](https://github.com/massvis/dataset/blob/master/targets393_metadata.mat)
 
-This is a Matlab allImages struct that contains all the fields discussed above. For example, allImages(i).source will print the source category for the i-th image. 
+This is a Matlab allImages struct that contains all the fields discussed above. For example, `allImages(i).HR` and `allImages(i).FAR` correspond to the at-a-glance memorability scores (from the AMT experiments) for the i-th visualization, and `allImages(i).HR_inlab` corresponds to the prolonged memorability scores (from the eyetracking lab). Also, `allImages(i).rem` indicates whether the visualization was removed from textual description analysis (see "illegible" above). 
+
+To examine the polygon element labels, they are stored in the `allImages(i).annotation` field for the i-th visualization. For example, `allImages(i).annotation(1).object` is all the label information associated with the 1st polygon in the i-th visualization: the name, and unique polygon ID, as well as the (x,y) locations of all the polygon's vertices.
+
+To display the polygons on top of the image:
+
+* download the [LabelMe Matlab toolbox](http://labelme2.csail.mit.edu/Release3.0/browserTools/php/matlab_toolbox.php)
+* replace LMplot.m with the function provided here
+* run: `LMplot(allImages(i).annotation,imread(allImages(i).impath))`
+
