@@ -27,19 +27,19 @@ This data contains taxonomic labels and attributes for 410 visualizations. These
 Columns:
 
 Identifying information:
-* filename: corresponds to a target image that you can download by filling out the [request form](http://massvis.mit.edu/#data).
-* source: the source website for the visualization
-* category: the source category - one of: government/world organizations (G), news media (N), infographics (I), or scientific publications (S)
-* vistype: based on the visualization taxonomy (from Borkin et al. 2013) - one of: area, bars, circles, diagrams, distribution, grid/matrix, lines, maps, points, table, trees and networks
-* title: manually transcribed from the visualization
+* **filename**: corresponds to a target image that you can download by filling out the [request form](http://massvis.mit.edu/#data).
+* **source**: the source website for the visualization
+* **category**: the source category - one of: government/world organizations (G), news media (N), infographics (I), or scientific publications (S)
+* **vistype**: based on the visualization taxonomy (from Borkin et al. 2013) - one of: area, bars, circles, diagrams, distribution, grid/matrix, lines, maps, points, table, trees and networks
+* **title**: manually transcribed from the visualization
 
 Attributes:
-* attr: data-ink ratio: ratio of data to non-data elements - from low (1) to high (3)	
-* attr: # distinct colors: 1 color (1) or 2-6 colors (2) or 7 or more colors (3)
-* attr: black&white: binary attribute - yes (y) or no (n)	
-* attr: visual density: low visual density (1) to high visual density (3)
-* attr: human recognizable object: presence (y) or absence (n)	
-* attr: human depiction: presence (y) or absence (n)
+* **attr: data-ink ratio**: ratio of data to non-data elements - from low (1) to high (3)	
+* **attr: # distinct colors**: 1 color (1) or 2-6 colors (2) or 7 or more colors (3)
+* **attr: black&white**: binary attribute - yes (y) or no (n)	
+* **attr: visual density**: low visual density (1) to high visual density (3)
+* **attr: human recognizable object**: presence (y) or absence (n)	
+* **attr: human depiction**: presence (y) or absence (n)
 
 Memorability scores:		
 * mem: hits	
