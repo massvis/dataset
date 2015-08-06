@@ -53,6 +53,7 @@ To convert these scores to HR (hit rate), FAR (false alarm rate), dprime and a f
 ###[targets410_metadata.mat](https://github.com/massvis/dataset/blob/master/targets410_metadata.mat)
 
 This is a Matlab allImages struct that is equivalent to the data in the csv file.
+
 For instance, the fields for the i-th image are: 
 
 Identifying information:
