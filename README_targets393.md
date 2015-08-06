@@ -98,9 +98,9 @@ Annotations:
 * `allImages(i).redun_data` corresponds to data redundancy - a binary attribute indicating whether or not the data being presented is visually encoded in more than one way (e.g. via the addition of quantitative values as labels or the use of channels such as color, size, or opacity to represent a value already exhibited in a visualization such as the x- or y-axis values) - see Borkin et al. 2015 for details
 *  `allImages(i).redun_message` corresponds to message redundancy - a binary attribute indicating whether the main conclusion or message of the visualization is explicitly presented to the viewer in multiple ways (e.g. via explanatory annotations, labels, text, and pictures) - see Borkin et al. 2015 for details
 
-To examine the polygon element labels, they are stored in the `allImages(i).annotation` field for the i-th visualization. For example, `allImages(i).annotation(1).object` is all the label information associated with the 1st polygon in the i-th visualization: the name, and unique polygon ID, as well as the (x,y) locations of all the polygon's vertices.
+To examine the polygon element labels, they are stored in the `allImages(i).annotation` field for the i-th visualization. For example, `allImages(i).annotation(j).object` is all the label information associated with the j-th polygon in the i-th visualization: the name, and unique polygon ID, as well as the (x,y) locations of all the polygon's vertices.
 
-To display the polygons on top of the image:
+To visually plot the polygons on top of the i-th visualization:
 
 * download the [LabelMe Matlab toolbox](http://labelme2.csail.mit.edu/Release3.0/browserTools/php/matlab_toolbox.php)
 * replace LMplot.m with the function provided here
