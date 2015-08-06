@@ -102,7 +102,7 @@ To examine the polygon element labels, they are stored in the `allImages(i).anno
 
 To visually plot the polygons on top of the i-th visualization:
 
-..1 download the [LabelMe Matlab toolbox](http://labelme2.csail.mit.edu/Release3.0/browserTools/php/matlab_toolbox.php)
-..2 replace LMplot.m with the function provided here
-..3 run: `LMplot(allImages(i).annotation,imread(allImages(i).impath))`
+* download the [LabelMe Matlab toolbox](http://labelme2.csail.mit.edu/Release3.0/browserTools/php/matlab_toolbox.php)
+* replace LMplot.m with the function provided here
+* run: `LMplot(allImages(i).annotation,imread(allImages(i).impath))`
 
