@@ -85,15 +85,11 @@ Attributes:
 * `allImages(i).person` corresponds to human depiction: presence (y) or absence (n)
 
 Memorability scores:	
-* `allImages(i).hits` total number of times (across all AMT workers) visualization was recognized when shown for the second time
-* `allImages(i).misses` total number of times visualization was not recognized (missed) when shown for the second time	
-* `allImages(i).false_alarms` total number of times visualization was mistakenly recognized when shown for the first time
-* `allImages(i).correct_rejections` total number of times visualization was shown for the first time and not mistakenly recognized
-
-Annotations:
 * `allImages(i).HR` the (at-a-glance) hit rate score from the Amazon Mechanical Turk (AMT) experiments with 1 second of viewing per visualization (Borkin et al. 2013)
 * `allImages(i).FAR` the (at-a-glance) false alarm rate score from the AMT experiments with 1 second of viewing per visualization (Borkin et al. 2013)
 * `allImages(i).HR_inlab` the (prolonged viewing) hit rate score from the eyetracking laboratory experiments with 10 seconds of viewing per visualization (Borkin et al. 2015)
+
+Annotations:
 * `allImages(i).rem` if any of the experimental participants complained about difficulty of reading the text in the visualization, we removed the visualization from the textual description analysis and marked this field with a 1
 * `allImages(i).redun_data` corresponds to data redundancy - a binary attribute indicating whether or not the data being presented is visually encoded in more than one way (e.g. via the addition of quantitative values as labels or the use of channels such as color, size, or opacity to represent a value already exhibited in a visualization such as the x- or y-axis values) - see Borkin et al. 2015 for details
 *  `allImages(i).redun_message` corresponds to message redundancy - a binary attribute indicating whether the main conclusion or message of the visualization is explicitly presented to the viewer in multiple ways (e.g. via explanatory annotations, labels, text, and pictures) - see Borkin et al. 2015 for details
