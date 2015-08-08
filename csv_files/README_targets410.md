@@ -49,33 +49,3 @@ Memorability scores:
 * **mem: correct rejections**: total number of times visualization was shown for the first time and not mistakenly recognized
 
 To convert these scores to HR (hit rate), FAR (false alarm rate), dprime and a few others, see the first page of [http://figrim.mit.edu/supplemental.pdf](http://figrim.mit.edu/supplemental.pdf). 
-
-###[targets410_metadata.mat](https://github.com/massvis/dataset/blob/master/matlab_files/targets410_metadata.mat)
-
-This is a Matlab allImages struct that is equivalent to the data in the csv file.
-
-For instance, the fields for the i-th image are: 
-
-Identifying information:
-* `allImages(i).filename` (and associated full path `allImages(i).impath`) corresponds to a target image that you can download by filling out the [request form](http://massvis.mit.edu/#data)
-* `allImages(i).source` the source website for the visualization
-* `allImages(i).category` the source category by number (or `allImages(i).category_label` by letter) - one of: government/world organizations (4, G), news media (3, N), infographics (2, I), or scientific publications (1, S)
-* `allImages(i).vistype` based on the visualization taxonomy (from Borkin et al. 2013) - one of: area, bars, circles, diagrams, distribution, grid/matrix, lines, maps, points, table, trees and networks
-* `allImages(i).title` manually transcribed from the visualization
-* `allImages(i).title_loc` top-left, bottom-right, top-center, etc.
-
-Attributes:
-* `allImages(i).minimalist` corresponds to data-ink ratio: ratio of data to non-data elements - from low (1) to high (3)	
-* `allImages(i).color` corresponds to # distinct colors: 1 color (1) or 2-6 colors (2) or 7 or more colors (3)
-* `allImages(i).bwg` corresponds to black&white: binary attribute - yes (y) or no (n)	
-* `allImages(i).clutter` corresponds to visual density: low visual density (1) to high visual density (3)
-* `allImages(i).object` corresponds to human recognizable object: presence (y) or absence (n)
-* `allImages(i).person` corresponds to human depiction: presence (y) or absence (n)
-
-Memorability scores:	
-* `allImages(i).hits` total number of times (across all AMT workers) visualization was recognized when shown for the second time
-* `allImages(i).misses` total number of times visualization was not recognized (missed) when shown for the second time	
-* `allImages(i).false_alarms` total number of times visualization was mistakenly recognized when shown for the first time
-* `allImages(i).correct_rejections` total number of times visualization was shown for the first time and not mistakenly recognized
-
-See the Matlab script `calcMemScores.m` to convert these scores to HR, FAR, dprime, and a few other memorability measures.
