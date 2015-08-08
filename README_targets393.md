@@ -26,7 +26,7 @@ By using this dataset, you are agreeing to the following license agreement:
 
 This data contains taxonomic labels and attributes for 393 visualizations. These include the source, category, and type of each visualization, as well as the following attributes: data-ink ratio, number of distinctive colors, black & white, visual density, human recognizable object (HRO), and human depiction. We also provide the transcribed title for each visualization and where the title was located on the visualization, as well as whether the visualization contained data or message redundancy. From we include at-a-glance memorability scores (after 1 second of viewing) and from we include prolonged memorability scores (after 10 seconds of viewing). 
 
-###[targets393_metadata.csv](https://github.com/massvis/dataset/blob/master/targets393_metadata.csv)
+###[targets393_metadata.csv](https://github.com/massvis/dataset/blob/master/csv_files/targets393_metadata.csv)
 
 Columns:
 
@@ -56,12 +56,12 @@ Annotations:
 * **message redundancy:** a binary attribute indicating whether the main conclusion or message of the visualization is explicitly presented to the viewer in multiple ways (e.g. via explanatory annotations, labels, text, and pictures) - see Borkin et al. 2015 for details
 * **illegible:** if any of the experimental participants complained about difficulty of reading the text in the visualization, we removed the visualization from the textual description analysis and marked this column with a 1
 
-###[targets393_elementLabels.zip](https://github.com/massvis/dataset/blob/master/targets393_elementLabels.zip)
+###[targets393_elementLabels.zip](https://github.com/massvis/dataset/blob/master/csv_files/targets393_elementLabels.zip)
 
 For each filename corresponding to one of the 393 visualizations, there is a comma-separated plain text file with all the polygon element labels for that visualization.
 There is one polygon vertex per line, formatted as follows: polygon ID (one ID per polygon in an image), polygon name (not unique to a polygon - e.g. multiple annotations may be labeled in an image), x and y vertex locations in the image. Note that all the vertices for a single polygon will be located on consecutive lines of the file.
 
-###[targets393_metadata.mat](https://github.com/massvis/dataset/blob/master/targets393_metadata.mat)
+###[targets393_metadata.mat](https://github.com/massvis/dataset/blob/master/matlab_files/targets393_metadata.mat)
 
 This is a Matlab allImages struct that is equivalent to the data in the csv files discussed above.
 

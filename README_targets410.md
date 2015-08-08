@@ -22,7 +22,7 @@ By using this dataset, you are agreeing to the following license agreement:
 
 This data contains taxonomic labels and attributes for 410 visualizations. These include the source, category, and type of each visualization, as well as the following attributes: data-ink ratio, number of distinctive colors, black & white, visual density, human recognizable object (HRO), and human depiction. We also provide the transcribed title for each visualization and where the title was located on the visualization. From the Amazon Mechanical Turk (AMT) Experiments, we provide the number of hits, misses, false alarms, and correct rejections per image, which can be converted into the desired memorability scores (HR, FAR, dprime, etc.).
 
-###[targets410_metadata.csv](https://github.com/massvis/dataset/blob/master/targets410_metadata.csv)
+###[targets410_metadata.csv](https://github.com/massvis/dataset/blob/master/csv_files/targets410_metadata.csv)
 
 Columns:
 
@@ -50,7 +50,7 @@ Memorability scores:
 
 To convert these scores to HR (hit rate), FAR (false alarm rate), dprime and a few others, see the first page of [http://figrim.mit.edu/supplemental.pdf](http://figrim.mit.edu/supplemental.pdf). 
 
-###[targets410_metadata.mat](https://github.com/massvis/dataset/blob/master/targets410_metadata.mat)
+###[targets410_metadata.mat](https://github.com/massvis/dataset/blob/master/matlab_files/targets410_metadata.mat)
 
 This is a Matlab allImages struct that is equivalent to the data in the csv file.
 
@@ -78,4 +78,4 @@ Memorability scores:
 * `allImages(i).false_alarms` total number of times visualization was mistakenly recognized when shown for the first time
 * `allImages(i).correct_rejections` total number of times visualization was shown for the first time and not mistakenly recognized
 
-To convert these scores to HR (hit rate), FAR (false alarm rate), dprime and a few others, see the first page of [http://figrim.mit.edu/supplemental.pdf](http://figrim.mit.edu/supplemental.pdf). 
+See the Matlab script `calcMemScores.m` to convert these scores to HR, FAR, dprime, and a few other memorability measures.
