@@ -48,4 +48,4 @@ Memorability scores:
 * `allImages(i).false_alarms` total number of times visualization was mistakenly recognized when shown for the first time
 * `allImages(i).correct_rejections` total number of times visualization was shown for the first time and not mistakenly recognized
 
-See the Matlab script [calcMemScores.m(https://github.com/massvis/dataset/blob/master/matlab_files/calcMemScores.m) to convert these scores to HR, FAR, dprime, and a few other memorability measures.
+See the Matlab script [calcMemScores.m](https://github.com/massvis/dataset/blob/master/matlab_files/calcMemScores.m) to convert these scores to HR, FAR, dprime, and a few other memorability measures.
