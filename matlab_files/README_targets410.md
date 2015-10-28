@@ -1,6 +1,6 @@
 # Dataset
 
-This data corresponds to the following paper: 
+This data corresponds to the following [paper](http://vcg.seas.harvard.edu/files/pfister/files/infovis_borkin-128-camera_ready_0.pdf): 
 
 ```
 What Makes a Visualization Memorable?
@@ -30,7 +30,7 @@ Identifying information:
 * `allImages(i).filename` (and associated full path `allImages(i).impath`) corresponds to a target image that you can download by filling out the [request form](http://massvis.mit.edu/#data)
 * `allImages(i).source` the source website for the visualization
 * `allImages(i).category` the source category by number (or `allImages(i).category_label` by letter) - one of: government/world organizations (4, G), news media (3, N), infographics (2, I), or scientific publications (1, S)
-* `allImages(i).vistype` based on the visualization taxonomy (from Borkin et al. 2013) - one of: area, bars, circles, diagrams, distribution, grid/matrix, lines, maps, points, table, trees and networks
+* `allImages(i).vistype` based on the visualization taxonomy (from [Borkin et al. 2013](http://vcg.seas.harvard.edu/files/pfister/files/infovis_borkin-128-camera_ready_0.pdf)) - one of: area, bars, circles, diagrams, distribution, grid/matrix, lines, maps, points, table, trees and networks
 * `allImages(i).title` manually transcribed from the visualization
 * `allImages(i).title_loc` top-left, bottom-right, top-center, etc.
 

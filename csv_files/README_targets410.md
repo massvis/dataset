@@ -1,6 +1,6 @@
 # Dataset
 
-This data corresponds to the following paper: 
+This data corresponds to the following [paper](http://vcg.seas.harvard.edu/files/pfister/files/infovis_borkin-128-camera_ready_0.pdf): 
 
 ```
 What Makes a Visualization Memorable?

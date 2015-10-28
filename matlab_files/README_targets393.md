@@ -10,7 +10,7 @@ IEEE Transactions on Visualization and Computer Graphics (Proceedings of InfoVis
 
 ```
 Beyond Memorability: Visualization Recognition and Recall.
-Borkin, M., Bylinskii, Z., Kim, N.W., Bainbridge C.M., Yeh, C.S., Borkin, D., Pfister, H., & Oliva, A.
+Borkin, M.*, Bylinskii, Z.*, Kim, N.W., Bainbridge C.M., Yeh, C.S., Borkin, D., Pfister, H., & Oliva, A.
 IEEE Transactions on Visualization and Computer Graphics (Proceedings of InfoVis 2015)
 ```
 
@@ -26,7 +26,7 @@ By using this dataset, you are agreeing to the following license agreement:
 
 *To use any of these images in a research paper or technical report, do not exceed thumbnail size.
 
-This data contains taxonomic labels and attributes for 393 visualizations. These include the source, category, and type of each visualization, as well as the following attributes: data-ink ratio, number of distinctive colors, black & white, visual density, human recognizable object (HRO), and human depiction. We also provide the transcribed title for each visualization and where the title was located on the visualization, as well as whether the visualization contained data or message redundancy. From Borkin et al. 2013 we include at-a-glance memorability scores (after 1 second of viewing) and from Borkin, Bylinskii, et al. 2015 we include prolonged memorability scores (after 10 seconds of viewing). To get the data that also includes eye movements and user-generated textual descriptions (Borkin, Bylinskii, et al. 2015), [go to this page](https://github.com/massvis/eyetracking/blob/master/README.md).
+This data contains taxonomic labels and attributes for 393 visualizations. These include the source, category, and type of each visualization, as well as the following attributes: data-ink ratio, number of distinctive colors, black & white, visual density, human recognizable object (HRO), and human depiction. We also provide the transcribed title for each visualization and where the title was located on the visualization, as well as whether the visualization contained data or message redundancy. From [Borkin et al. 2013](http://vcg.seas.harvard.edu/files/pfister/files/infovis_borkin-128-camera_ready_0.pdf) we include at-a-glance memorability scores (after 1 second of viewing) and from [Borkin, Bylinskii, et al. 2015](http://vcg.seas.harvard.edu/files/pfister/files/infovis_submission251-camera.pdf) we include prolonged memorability scores (after 10 seconds of viewing). To get the data that also includes eye movements and user-generated textual descriptions ([Borkin, Bylinskii, et al. 2015](http://vcg.seas.harvard.edu/files/pfister/files/infovis_submission251-camera.pdf)), [go to this page](https://github.com/massvis/eyetracking/blob/master/README.md).
 
 ###[targets393_metadata.mat](https://github.com/massvis/dataset/blob/master/matlab_files/targets393_metadata.mat)
 
@@ -36,7 +36,7 @@ Identifying information:
 * `allImages(i).filename` (and associated full path `allImages(i).impath`) corresponds to a target image that you can download by filling out the [request form](http://massvis.mit.edu/#data)
 * `allImages(i).source` the source website for the visualization
 * `allImages(i).category` the source category by number (or `allImages(i).category_label` by letter) - one of: government/world organizations (4, G), news media (3, N), infographics (2, I), or scientific publications (1, S)
-* `allImages(i).vistype` based on the visualization taxonomy (from Borkin et al. 2013) - one of: area, bars, circles, diagrams, distribution, grid/matrix, lines, maps, points, table, trees and networks
+* `allImages(i).vistype` based on the visualization taxonomy (from [Borkin et al. 2013](http://vcg.seas.harvard.edu/files/pfister/files/infovis_borkin-128-camera_ready_0.pdf)) - one of: area, bars, circles, diagrams, distribution, grid/matrix, lines, maps, points, table, trees and networks
 * `allImages(i).title` manually transcribed from the visualization
 * `allImages(i).title_loc` top-left, bottom-right, top-center, etc.
 * `allImages(i).imsize` the size at which the visualization was shown to participants in the eyetracking laboratory study
@@ -50,13 +50,13 @@ Attributes:
 * `allImages(i).person` corresponds to human depiction: presence (y) or absence (n)
 
 Memorability scores:	
-* `allImages(i).HR` the (at-a-glance) hit rate score from the Amazon Mechanical Turk (AMT) experiments with 1 second of viewing per visualization (Borkin et al. 2013)
-* `allImages(i).FAR` the (at-a-glance) false alarm rate score from the AMT experiments with 1 second of viewing per visualization (Borkin et al. 2013)
-* `allImages(i).HR_inlab` the (prolonged viewing) hit rate score from the eyetracking laboratory experiments with 10 seconds of viewing per visualization (Borkin et al. 2015)
+* `allImages(i).HR` the (at-a-glance) hit rate score from the Amazon Mechanical Turk (AMT) experiments with 1 second of viewing per visualization ([Borkin et al. 2013](http://vcg.seas.harvard.edu/files/pfister/files/infovis_borkin-128-camera_ready_0.pdf))
+* `allImages(i).FAR` the (at-a-glance) false alarm rate score from the AMT experiments with 1 second of viewing per visualization ([Borkin et al. 2013](http://vcg.seas.harvard.edu/files/pfister/files/infovis_borkin-128-camera_ready_0.pdf))
+* `allImages(i).HR_inlab` the (prolonged viewing) hit rate score from the eyetracking laboratory experiments with 10 seconds of viewing per visualization ([Borkin, Bylinskii, et al. 2015](http://vcg.seas.harvard.edu/files/pfister/files/infovis_submission251-camera.pdf))
 
 Annotations:
-* `allImages(i).redun_data` corresponds to data redundancy - a binary attribute indicating whether or not the data being presented is visually encoded in more than one way (e.g. via the addition of quantitative values as labels or the use of channels such as color, size, or opacity to represent a value already exhibited in a visualization such as the x- or y-axis values) - see Borkin et al. 2015 for details
-*  `allImages(i).redun_message` corresponds to message redundancy - a binary attribute indicating whether the main conclusion or message of the visualization is explicitly presented to the viewer in multiple ways (e.g. via explanatory annotations, labels, text, and pictures) - see Borkin et al. 2015 for details
+* `allImages(i).redun_data` corresponds to data redundancy - a binary attribute indicating whether or not the data being presented is visually encoded in more than one way (e.g. via the addition of quantitative values as labels or the use of channels such as color, size, or opacity to represent a value already exhibited in a visualization such as the x- or y-axis values) - see [Borkin, Bylinskii, et al. 2015](http://vcg.seas.harvard.edu/files/pfister/files/infovis_submission251-camera.pdf) for details
+*  `allImages(i).redun_message` corresponds to message redundancy - a binary attribute indicating whether the main conclusion or message of the visualization is explicitly presented to the viewer in multiple ways (e.g. via explanatory annotations, labels, text, and pictures) - see [Borkin, Bylinskii, et al. 2015](http://vcg.seas.harvard.edu/files/pfister/files/infovis_submission251-camera.pdf) for details
 * `allImages(i).rem` if any of the experimental participants complained about difficulty of reading the text in the visualization, we removed the visualization from the textual description analysis and marked this field with a 1
 
 To examine the polygon element labels, they are stored in the `allImages(i).annotation` field for the i-th visualization. For example, `allImages(i).annotation(j).object` is all the label information associated with the j-th polygon in the i-th visualization: the name, and unique polygon ID, as well as the (x,y) locations of all the polygon's vertices.
