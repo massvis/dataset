@@ -2,11 +2,11 @@
 
 This data corresponds to the following paper: 
 
-<dl>
-What Makes a Visualization Memorable?<br>
-Borkin, M., Vo, A., Bylinskii, Z., Isola, P., Sunkavalli, S., Oliva, A., & Pfister, H.<br>
-IEEE Transactions on Visualization and Computer Graphics (Proceedings of InfoVis 2013)<br><br>
-</dl>
+```
+What Makes a Visualization Memorable?
+Borkin, M., Vo, A., Bylinskii, Z., Isola, P., Sunkavalli, S., Oliva, A., & Pfister, H.
+IEEE Transactions on Visualization and Computer Graphics (Proceedings of InfoVis 2013)
+```
 
 Please cite this paper if you use this data.
 

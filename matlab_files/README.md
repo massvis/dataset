@@ -2,15 +2,17 @@
 
 This data corresponds to the following papers: 
 
-<dl>
-What Makes a Visualization Memorable?<br>
-Borkin, M., Vo, A., Bylinskii, Z., Isola, P., Sunkavalli, S., Oliva, A., & Pfister, H.<br>
-IEEE Transactions on Visualization and Computer Graphics (Proceedings of InfoVis 2013)<br><br>
+```
+What Makes a Visualization Memorable?
+Borkin, M., Vo, A., Bylinskii, Z., Isola, P., Sunkavalli, S., Oliva, A., & Pfister, H.
+IEEE Transactions on Visualization and Computer Graphics (Proceedings of InfoVis 2013)
+```
 
-Beyond Memorability: Visualization Recognition and Recall.<br>
-Borkin, M., Bylinskii, Z., Kim, N.W., Bainbridge C.M., Yeh, C.S., Borkin, D., Pfister, H., & Oliva, A.<br>
-IEEE Transactions on Visualization and Computer Graphics (Proceedings of InfoVis 2015)<br>
-</dl>
+```
+Beyond Memorability: Visualization Recognition and Recall.
+Borkin, M., Bylinskii, Z., Kim, N.W., Bainbridge C.M., Yeh, C.S., Borkin, D., Pfister, H., & Oliva, A.
+IEEE Transactions on Visualization and Computer Graphics (Proceedings of InfoVis 2015)
+```
 
 Please cite these papers if you use this data.
 
