@@ -30,6 +30,10 @@ By using this dataset, you are agreeing to the following license agreement:
 
 all5k contains 5,814 single- and multi-panel visualizations scraped from the web from seven different online sources making up a total of four different source categories (government and world organizations, news media, infographics, and scientific publications), as described in [Borkin et al. 2013](http://vcg.seas.harvard.edu/files/pfister/files/infovis_borkin-128-camera_ready_0.pdf). We provide the original URLs, source and category labels, as well as whether each visualization is single or multi-panel. 
 
+###single2k [[in csv format]](https://github.com/massvis/dataset/blob/master/csv_files/single2k_metadata.csv)
+
+single2k contains a subset of the visualizations from all5k, limited to only single-panel, stand-alone visualizations (a total of 2,068 visualizations). We provide the original URLs, source and category labels, visualization type, and a label indicating the presence/absence of pictorial element(s).
+
 ###targets410 [[in csv format]](https://github.com/massvis/dataset/blob/master/csv_files/README_targets410.md)  [[in Matlab format]](https://github.com/massvis/dataset/blob/master/matlab_files/README_targets410.md)
 
 targets410 includes the 410 target visualizations used in the Amazon Mechanical Turk (AMT) experiments presented in [Borkin et al. 2013](http://vcg.seas.harvard.edu/files/pfister/files/infovis_borkin-128-camera_ready_0.pdf). These are a subset of the single2k single-panel visualizations that have also been annotated with 6 attributes (data-ink ratio, number of distinct colors, black&white, visual density, human-recognizable object, human depiction). Apart from these attributes, we provide the original URLs, source and category labels, visualization types, transcribed visualization title and title location, as well as the memorability scores gathered from the AMT experiments for each visualization. 
