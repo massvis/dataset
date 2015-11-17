@@ -32,7 +32,7 @@ all5k contains 5,814 single- and multi-panel visualizations scraped from the web
 
 ###single2k [[in csv format]](https://github.com/massvis/dataset/blob/master/csv_files/single2k_metadata.csv)
 
-single2k contains a subset of the visualizations from all5k, limited to only single-panel, stand-alone visualizations (a total of 2,068 visualizations). We provide the original URLs, source and category labels, visualization type, and a label indicating the presence/absence of pictorial element(s).
+single2k contains a subset of the visualizations from all5k, limited to only single-panel, stand-alone visualizations (a total of 2,068 visualizations). We provide the original URLs, source and category labels, and visualization type.
 
 ###targets410 [[in csv format]](https://github.com/massvis/dataset/blob/master/csv_files/README_targets410.md)  [[in Matlab format]](https://github.com/massvis/dataset/blob/master/matlab_files/README_targets410.md)
 
